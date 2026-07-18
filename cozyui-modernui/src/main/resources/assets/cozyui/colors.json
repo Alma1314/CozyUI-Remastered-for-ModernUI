@@ -1,0 +1,38 @@
+{
+  "normal": {
+    "l0Fill": "ff000000", "l1Fill": "ff5c5958", "l1Edge": "ff4c4948",
+    "bgTop": "ff7b7877", "bgBot": "ff83807f", "fgTop": "ffc3c0bf", "fgBot": "ffa3a09f"
+  },
+  "selected": {
+    "l0Fill": "ffffffff", "l1Fill": "ff5d53a4", "l1Edge": "ff4b4384",
+    "bgTop": "ff786fcf", "bgBot": "ff7a7cdb", "fgTop": "ffbac7ff", "fgBot": "ffa1a9e8"
+  },
+  "disabled": {
+    "l0Fill": "ff000000", "l1Fill": "ff343130", "l1Edge": "ff2c2928",
+    "bgTop": "ff343130", "bgBot": "ff2c2928", "fgTop": "ff444140", "fgBot": "ff646160"
+  },
+  "panel": {
+    "l0Fill": "ff000000", "l1Fill": "ff7f8083", "l1Edge": "ff636467",
+    "bgTop": "ffbbbcbf", "bgBot": "ffbbbcbf", "fgTop": "fffbfcff", "fgBot": "ffd7d8db"
+  },
+  "slider_track": {
+    "l0Fill": "ff000000", "l1Fill": "00000000", "l1Edge": "00000000",
+    "bgTop": "ff2c2928", "bgBot": "ff343130", "fgTop": "ff444140", "fgBot": "ff646160"
+  },
+  "text_box": {
+    "l0Fill": "00000000", "l1Fill": "00000000", "l1Edge": "00000000",
+    "bgTop": "ff201d1c", "bgBot": "ff343130", "fgTop": "ff83807f", "fgBot": "ff6f6c6b"
+  },
+  "text_box_selected": {
+    "l0Fill": "00000000", "l1Fill": "00000000", "l1Edge": "00000000",
+    "bgTop": "ff201d1c", "bgBot": "ff343130", "fgTop": "ffc3c0bf", "fgBot": "ffa3a09f"
+  },
+  "scrollbar_track": {
+    "l0Fill": "00000000", "l1Fill": "00000000", "l1Edge": "00000000",
+    "bgTop": "ff2c2928", "bgBot": "ff2c2928", "fgTop": "ff444140", "fgBot": "ff444140"
+  },
+  "scrollbar_handle": {
+    "l0Fill": "00000000", "l1Fill": "00000000", "l1Edge": "00000000",
+    "bgTop": "ff83807f", "bgBot": "ff83807f", "fgTop": "ffc3c0bf", "fgBot": "ffc3c0bf"
+  }
+}
