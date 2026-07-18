@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 372.0 308.0" width="372.0" height="308.0">
+  <defs>
+<linearGradient id="_未命名的渐变_3924" data-name="未命名的渐变 3924" x1="69.71" y1="1312.07" x2="69.71" y2="1313.07" gradientTransform="translate(-12720.96 373082.38) scale(196 -284)" gradientUnits="userSpaceOnUse">
+  <stop offset=".25" stop-color="#2e2f32"/>
+  <stop offset=".75" stop-color="#2c2d30"/>
+  <stop offset="1" stop-color="#28292c"/>
+</linearGradient>
+<linearGradient id="_未命名的渐变_3947" data-name="未命名的渐变 3947" x1="915" y1="431" x2="915" y2="167" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#eff0f3"/>
+  <stop offset="1" stop-color="#d7d8db"/>
+</linearGradient>
+<pattern id="副手槽_人物模型_装备槽_副手槽_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(1044, 387)"/>
+<pattern id="副手槽_人物模型_装备槽_装备槽_左_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(768, 171)"/>
+    <linearGradient id="_新建渐变色板_12" x1="108" y1="68" x2="108" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7f8083"/>
+      <stop offset="1" stop-color="#737477"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_765" x1="36" y1="140" x2="36" y2="72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7f8083"/>
+      <stop offset="1" stop-color="#737477"/>
+    </linearGradient>
+    <linearGradient id="_新建渐变色板_11" x1="36" y1="68" x2="36" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8f9093"/>
+      <stop offset="1" stop-color="#838487"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_812" x1="108" y1="140" x2="108" y2="72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8f9093"/>
+      <stop offset="1" stop-color="#838487"/>
+    </linearGradient>
+    <pattern id="界面模板_2_2物品槽_外框_纹理_基" patternUnits="userSpaceOnUse" width="144" height="144">
+      <rect x="72" width="72" height="68" fill="url(#_新建渐变色板_12)"/>
+      <rect y="72" width="72" height="68" fill="url(#_未命名的渐变_765)"/>
+      <rect width="72" height="68" fill="url(#_新建渐变色板_11)"/>
+      <rect x="72" y="72" width="72" height="68" fill="url(#_未命名的渐变_812)"/>
+      <rect y="68" width="144" height="4" fill="#a1a2a5"/>
+      <rect y="140" width="144" height="4" fill="#a1a2a5"/>
+    </pattern>
+  </defs>
+<g transform="translate(-756.000, -159.000)">
+  <path d="M868,171h148c22.1,0,23.1.1,24,24v236c-.9,22.1-1.9,23.1-24,24h-148c-23.9-.9-24-1.9-24-24v-236c0-23.9.1-24,24-24Z" style="fill: url(#_未命名的渐变_3924); fill-rule: evenodd;"/>  <path d="M1011.58,397.38c-4.71-4.7-9.72-5.71-26.7-5.71h-85.9c-16.98,0-21.99,1.01-26.7,5.71l-28.28,28.21v5.41c0,22.1.1,23.1,24,24h148c22.1-.9,23.1-1.9,24-24v-5.27l-28.42-28.36Z" style="fill: #28292c; fill-rule: evenodd;"/>  <path d="M1092.05,383h-24.11c-12.05,0-19.08.21-23.41,4.56-4.32,4.34-4.53,11.38-4.53,23.44v20c0,12.07.21,19.12,4.55,23.45,4.34,4.34,11.38,4.55,23.45,4.55h24c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-20c0-12.07-.21-19.11-4.54-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_未命名的渐变_3947);"/>  <path d="M1092.05,387c22.95,0,23.95,1.02,23.95,24v20c0,23-1,24-24,24h-24c-23,0-24-1-24-24v-20c0-22.98.99-24,23.95-24h24.11Z" style="fill: url(#副手槽_人物模型_装备槽_副手槽_纹理);"/>  <path d="M816.06,167h-24.12c-12.05,0-19.07.21-23.41,4.56-4.32,4.34-4.53,11.38-4.53,23.44v236c0,12.07.21,19.12,4.55,23.45,4.34,4.34,11.38,4.55,23.45,4.55h24c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-236c0-12.07-.21-19.1-4.54-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_未命名的渐变_3947);"/>  <path d="M816.06,171c22.94,0,23.94,1.02,23.94,24v236c0,23-1,24-24,24h-24c-23,0-24-1-24-24v-236c0-22.98,1-24,23.94-24h24.12Z" style="fill: url(#副手槽_人物模型_装备槽_装备槽_左_纹理);"/>  <path fill-rule="evenodd" d="M1016.37,167h-148.78c-12.43,0-19.28,0-23.47,4.29-4.13,4.22-4.13,10.73-4.13,23.71v236c0,11.87,0,18.41,4.16,22.72,4.19,4.34,11,4.79,23.69,5.27h.08s.08,0,.08,0h148.16c11.58-.48,18.34-.95,22.62-5.22,4.27-4.27,4.75-11.03,5.22-22.61v-.08s0-.08,0-.08v-236.15c-.48-12.63-.93-19.41-5.19-23.61-4.3-4.24-11.13-4.24-22.44-4.24h0ZM1016.37,171c21.74,0,22.73.23,23.63,24v236c-.9,22.1-1.9,23.1-24,24h-148c-23.9-.9-24-1.9-24-24v-236c0-23.77.1-24,23.6-24h148.78Z" style="fill: url(#_未命名的渐变_3947);"/>
+</g>
+</svg>

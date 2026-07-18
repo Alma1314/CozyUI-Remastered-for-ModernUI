@@ -1,0 +1,37 @@
+{
+  "source": "005-无样式.svg",
+  "component": "按钮 20x 无渐变",
+  "viewBox": [
+    1538,
+    474,
+    80,
+    80
+  ],
+  "mode": "sub_components",
+  "states": [
+    {
+      "name": "按钮禁用",
+      "refs": [
+        "_未命名的渐变_273"
+      ],
+      "layers": 3,
+      "edge_glow": true
+    },
+    {
+      "name": "按钮常态",
+      "refs": [
+        "_未命名的渐变_262"
+      ],
+      "layers": 3,
+      "edge_glow": true
+    },
+    {
+      "name": "按钮选中",
+      "refs": [
+        "_未命名的渐变_255"
+      ],
+      "layers": 3,
+      "edge_glow": true
+    }
+  ]
+}

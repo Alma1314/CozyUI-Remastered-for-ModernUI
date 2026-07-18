@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 712.0 676.0" width="712.0" height="676.0">
+  <defs>
+    <clipPath id="clip_界面">
+      <path d="M748,743v24c0,28.5,7.5,36,36,36h616c28.5,0,36-7.5,36-36v-24h-688Z"/>
+    </clipPath>
+    <linearGradient id="edge_grad_left_界面" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#636467"/>
+      <stop offset="50%" stop-color="#636467"/>
+      <stop offset="100%" stop-color="#636467" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge_grad_right_界面" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#636467" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#636467"/>
+      <stop offset="100%" stop-color="#636467"/>
+    </linearGradient>
+  </defs>
+<g transform="translate(-736.000, -139.000)">
+  <g id="_界面_0-2" data-name="界面 0">
+      <path d="M1398,147h-612c-34,0-42,8-42,42v576c0,34,8,42,42,42h612c34,0,42-8,42-42V189c0-34-8-42-42-42Z" style="fill-rule: evenodd;"/>
+    </g>  <g id="_界面_1-2" data-name="界面 1">
+      <g clip-path="url(#clip_界面)">
+        <rect x="748.000" y="743.000" width="688.000" height="60.000" fill="#7f8083"/>
+        <rect x="748.000" y="743.000" width="8.000" height="60.000" fill="url(#edge_grad_left_界面)"/>
+        <rect x="1428.000" y="743.000" width="8.000" height="60.000" fill="url(#edge_grad_right_界面)"/>
+      </g>
+    </g>  <g id="_界面_2-2" data-name="界面 2">
+      <path d="M1400,151h-616c-28.5,0-36,7.5-36,36v572c0,28.5,7.5,36,36,36h616c28.5,0,36-7.5,36-36V187c0-28.5-7.5-36-36-36Z" style="fill: #bbbcbf; fill-rule: evenodd;"/>
+    </g>
+</g>
+</svg>

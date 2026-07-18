@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 208.0 304.0" width="208.0" height="304.0">
+  <defs>
+    <clipPath id="clip_界面模板">
+      <path d="M548,666v24c0,28.5,7.5,36,36,36h112c28.5,0,36-7.5,36-36v-24h-184Z"/>
+    </clipPath>
+    <linearGradient id="edge_grad_left_界面模板" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#636467"/>
+      <stop offset="50%" stop-color="#636467"/>
+      <stop offset="100%" stop-color="#636467" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge_grad_right_界面模板" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#636467" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#636467"/>
+      <stop offset="100%" stop-color="#636467"/>
+    </linearGradient>
+  </defs>
+<g transform="translate(-536.000, -434.000)">
+  <g id="_界面模板_0" data-name="界面模板 0">
+      <path d="M694,442h-108c-34,0-42,8-42,42v204c0,34,8,42,42,42h108c34,0,42-8,42-42v-204c0-34-8-42-42-42Z" style="fill-rule: evenodd;"/>
+    </g>  <g id="_界面模板_1" data-name="界面模板 1">
+      <g clip-path="url(#clip_界面模板)">
+        <rect x="548.000" y="666.000" width="184.000" height="60.000" fill="#7f8083"/>
+        <rect x="548.000" y="666.000" width="8.000" height="60.000" fill="url(#edge_grad_left_界面模板)"/>
+        <rect x="724.000" y="666.000" width="8.000" height="60.000" fill="url(#edge_grad_right_界面模板)"/>
+      </g>
+    </g>  <g id="_界面模板_2" data-name="界面模板 2">
+      <path d="M696,446h-112c-28.5,0-36,7.5-36,36v200c0,28.5,7.5,36,36,36h112c28.5,0,36-7.5,36-36v-200c0-28.5-7.5-36-36-36Z" style="fill: #bbbcbf; fill-rule: evenodd;"/>
+    </g>
+</g>
+</svg>

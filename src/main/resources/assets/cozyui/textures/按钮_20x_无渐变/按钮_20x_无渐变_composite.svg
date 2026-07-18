@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 80 80" width="80" height="80">
+  <defs>
+    <linearGradient id="_未命名的渐变_273" data-name="未命名的渐变 273" x1="1578" y1="626" x2="1578" y2="562" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646160"/>
+      <stop offset="1" stop-color="#545150"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_262" data-name="未命名的渐变 262" x1="1578" y1="626" x2="1578" y2="562" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3a09f"/>
+      <stop offset="1" stop-color="#b3b0af"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_255" data-name="未命名的渐变 255" x1="1578" y1="626" x2="1578" y2="562" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a1a9e8"/>
+      <stop offset="1" stop-color="#adb8f3"/>
+    </linearGradient>
+<clipPath id="clip_按钮禁用">
+      <path d="M1542,594v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16h-72Z"/>
+    </clipPath>
+<linearGradient id="edge_grad_left_按钮禁用" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2c2928"/>
+      <stop offset="50%" stop-color="#2c2928"/>
+      <stop offset="100%" stop-color="#2c2928" stop-opacity="0"/>
+    </linearGradient>
+<linearGradient id="edge_grad_right_按钮禁用" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2c2928" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2c2928"/>
+      <stop offset="100%" stop-color="#2c2928"/>
+    </linearGradient>
+<clipPath id="clip_按钮常态">
+      <path d="M1542,594v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16h-72Z"/>
+    </clipPath>
+<linearGradient id="edge_grad_left_按钮常态" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c4948"/>
+      <stop offset="50%" stop-color="#4c4948"/>
+      <stop offset="100%" stop-color="#4c4948" stop-opacity="0"/>
+    </linearGradient>
+<linearGradient id="edge_grad_right_按钮常态" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c4948" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#4c4948"/>
+      <stop offset="100%" stop-color="#4c4948"/>
+    </linearGradient>
+<clipPath id="clip_按钮选中">
+      <path d="M1542,594v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16h-72Z"/>
+    </clipPath>
+<linearGradient id="edge_grad_left_按钮选中" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4b4384"/>
+      <stop offset="50%" stop-color="#4b4384"/>
+      <stop offset="100%" stop-color="#4b4384" stop-opacity="0"/>
+    </linearGradient>
+<linearGradient id="edge_grad_right_按钮选中" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4b4384" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#4b4384"/>
+      <stop offset="100%" stop-color="#4b4384"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(-1538.000, -474.000)">
+      <g id="_按钮禁用_0-9" data-name="按钮禁用 0">
+          <path d="M1590,558h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+        </g>  <g id="_按钮禁用_1-4" data-name="按钮禁用 1">
+          <g clip-path="url(#clip_按钮禁用)">
+            <rect x="1542.000" y="594.000" width="72.000" height="40.000" fill="#343130"/>
+            <rect x="1542.000" y="594.000" width="8.000" height="40.000" fill="url(#edge_grad_left_按钮禁用)"/>
+            <rect x="1606.000" y="594.000" width="8.000" height="40.000" fill="url(#edge_grad_right_按钮禁用)"/>
+          </g>
+        </g>  <g id="_按钮禁用_2-6" data-name="按钮禁用 2">
+          <g >
+            <rect x="1542" y="562" width="72" height="64" rx="24" ry="24" style="fill: #302d2c;"/>
+            <path d="M1590,566c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v16c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-16c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M1590,562h-24c-19,0-24,5-24,24v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_273);"/>
+          </g>
+        </g>
+
+      <g id="_按钮常态_0-4" data-name="按钮常态 0">
+          <path d="M1590,558h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+        </g>  <g id="_按钮常态_1-4" data-name="按钮常态 1">
+          <g clip-path="url(#clip_按钮常态)">
+            <rect x="1542.000" y="594.000" width="72.000" height="40.000" fill="#5c5958"/>
+            <rect x="1542.000" y="594.000" width="8.000" height="40.000" fill="url(#edge_grad_left_按钮常态)"/>
+            <rect x="1606.000" y="594.000" width="8.000" height="40.000" fill="url(#edge_grad_right_按钮常态)"/>
+          </g>
+        </g>  <g id="_按钮常态_2-4" data-name="按钮常态 2">
+          <g >
+            <rect x="1542" y="562" width="72" height="64" rx="24" ry="24" style="fill: #7f7c7b;"/>
+            <path d="M1590,566c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v16c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-16c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M1590,562h-24c-19,0-24,5-24,24v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_262);"/>
+          </g>
+        </g>
+
+      <g id="_按钮选中_0-4" data-name="按钮选中 0">
+          <path d="M1590,558h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill: #fff; fill-rule: evenodd;"/>
+        </g>  <g id="_按钮选中_1-4" data-name="按钮选中 1">
+          <g clip-path="url(#clip_按钮选中)">
+            <rect x="1542.000" y="594.000" width="72.000" height="40.000" fill="#5d53a4"/>
+            <rect x="1542.000" y="594.000" width="8.000" height="40.000" fill="url(#edge_grad_left_按钮选中)"/>
+            <rect x="1606.000" y="594.000" width="8.000" height="40.000" fill="url(#edge_grad_right_按钮选中)"/>
+          </g>
+        </g>  <g id="_按钮选中_2-4" data-name="按钮选中 2">
+          <g >
+            <rect x="1542" y="562" width="72" height="64" rx="24" ry="24" style="fill: #7975d5;"/>
+            <path d="M1590,566c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v16c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-16c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M1590,562h-24c-19,0-24,5-24,24v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_255);"/>
+          </g>
+        </g>
+
+  </g>
+</svg>

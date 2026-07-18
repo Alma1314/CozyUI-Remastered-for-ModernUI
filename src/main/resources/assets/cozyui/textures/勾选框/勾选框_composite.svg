@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 80 88" width="80" height="88">
+  <defs>
+    <linearGradient id="_未命名的渐变_475" data-name="未命名的渐变 475" x1="65.54" y1="1314.74" x2="65.54" y2="1315.74" gradientTransform="translate(-5643.86 94943.34) scale(92 -72)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#343130"/>
+      <stop offset="1" stop-color="#201d1c"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_475-3" data-name="未命名的渐变 475" x1="64.47" y1="1310.5" x2="64.47" y2="1311.5" gradientTransform="translate(-4283.86 94943.34) scale(72 -72)" href="#_未命名的渐变_475"/>
+    <linearGradient id="_未命名的渐变_477" data-name="未命名的渐变 477" x1="358" y1="587" x2="358" y2="515" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646160"/>
+      <stop offset="1" stop-color="#444140"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="64.47" y1="1311.5" x2="64.47" y2="1310.5" gradientTransform="translate(-4283.86 94943.34) scale(72 -72)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#786fcf"/>
+      <stop offset="1" stop-color="#7a7cdb"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_441" data-name="未命名的渐变 441" x1="358" y1="587" x2="358" y2="515" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a1a9e8"/>
+      <stop offset="1" stop-color="#bac7ff"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_433" data-name="未命名的渐变 433" x1="358.33" y1="575.81" x2="358.33" y2="526.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#da4334"/>
+      <stop offset="1" stop-color="#ed6655"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_385" data-name="未命名的渐变 385" x1="358.25" y1="574.99" x2="358.25" y2="526.62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#47c729"/>
+      <stop offset="1" stop-color="#6ce045"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(-318.000, -508.000)">
+      <path d="M370,511h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+
+      <g >
+          <rect x="322" y="515" width="72" height="72" rx="24" ry="24" style="fill: url(#_未命名的渐变_475-3);"/>
+          <path d="M370,519c8.83,0,13.7,1.11,16.3,3.7s3.7,7.47,3.7,16.3v24c0,8.83-1.11,13.7-3.7,16.3s-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7s-3.7-7.47-3.7-16.3v-24c0-8.83,1.11-13.7,3.7-16.3s7.47-3.7,16.3-3.7h24M370,515h-24c-19,0-24,5-24,24v24c0,19,5,24,24,24h24c19,0,24-5,24-24v-24c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_477);"/>
+        </g>
+
+      <line x1="339.1" y1="570.31" x2="377.55" y2="531.99" style="fill: none; stroke: url(#_未命名的渐变_433); stroke-linecap: round; stroke-linejoin: round; stroke-width: 11px;"/>  <line x1="339.1" y1="531.99" x2="377.55" y2="570.31" style="fill: none; stroke: url(#_未命名的渐变_433); stroke-linecap: round; stroke-linejoin: round; stroke-width: 11px;"/>
+
+      <g >
+          <rect x="322" y="515" width="72" height="72" rx="24" ry="24" style="fill: url(#_未命名的渐变_2);"/>
+          <path d="M370,519c8.83,0,13.7,1.11,16.3,3.7s3.7,7.47,3.7,16.3v24c0,8.83-1.11,13.7-3.7,16.3s-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-24c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M370,515h-24c-19,0-24,5-24,24v24c0,19,5,24,24,24h24c19,0,24-5,24-24v-24c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_441);"/>
+        </g>
+
+      <g >
+          <rect x="324" y="517" width="68" height="68" rx="22" ry="22" style="fill: #172d13;"/>
+          <path d="M370,519c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v24c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-24c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M370,515h-24c-19,0-24,5-24,24v24c0,19,5,24,24,24h24c19,0,24-5,24-24v-24c0-19-5-24-24-24h0Z" style="fill: #47c729;"/>
+        </g>
+
+      <polyline points="339.7 555.28 355.73 569.49 376.8 532.12" style="fill: none; stroke: url(#_未命名的渐变_385); stroke-linecap: round; stroke-linejoin: round; stroke-width: 11px;"/>
+
+  </g>
+</svg>

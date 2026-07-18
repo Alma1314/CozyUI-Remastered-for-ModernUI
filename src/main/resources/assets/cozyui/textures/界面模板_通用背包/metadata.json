@@ -1,0 +1,37 @@
+{
+  "source": "005-无样式.svg",
+  "component": "界面模板 通用背包",
+  "viewBox": [
+    748,
+    811,
+    668,
+    328
+  ],
+  "mode": "simple",
+  "states": [
+    {
+      "name": "界面",
+      "refs": [],
+      "layers": 3,
+      "edge_glow": true
+    },
+    {
+      "name": "物品栏外框",
+      "refs": [
+        "界面模板_通用背包_物品栏外框_纹理",
+        "_未命名的渐变_4003"
+      ],
+      "layers": 1,
+      "edge_glow": false
+    },
+    {
+      "name": "背包外框",
+      "refs": [
+        "界面模板_通用背包_背包外框_纹理",
+        "_未命名的渐变_4006"
+      ],
+      "layers": 1,
+      "edge_glow": false
+    }
+  ]
+}

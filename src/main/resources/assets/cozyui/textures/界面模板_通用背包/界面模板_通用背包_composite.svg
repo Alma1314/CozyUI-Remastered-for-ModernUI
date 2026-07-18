@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 712.0 372.0" width="712.0" height="372.0">
+  <defs>
+    <linearGradient id="_未命名的渐变_4003" data-name="未命名的渐变 4003" x1="1092" y1="1115" x2="1092" y2="1063" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#eff0f3"/>
+  <stop offset="1" stop-color="#d7d8db"/>
+</linearGradient>
+    <linearGradient id="_未命名的渐变_4006" data-name="未命名的渐变 4006" x1="1092" y1="1051" x2="1092" y2="831" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#eff0f3"/>
+  <stop offset="1" stop-color="#d7d8db"/>
+</linearGradient>
+    <pattern id="界面模板_通用背包_物品栏外框_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(768, 1067)"/>
+    <pattern id="界面模板_通用背包_背包外框_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(768, 835)"/>
+    <clipPath id="clip_界面">
+    <path d="M748,1103v24c0,28.5,7.5,36,36,36h616c28.5,0,36-7.5,36-36v-24h-688Z"/>
+    </clipPath>
+    <linearGradient id="edge_grad_left_界面" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#636467"/>
+    <stop offset="50%" stop-color="#636467"/>
+    <stop offset="100%" stop-color="#636467" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge_grad_right_界面" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#636467" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#636467"/>
+    <stop offset="100%" stop-color="#636467"/>
+    </linearGradient>
+    <linearGradient id="_新建渐变色板_12" x1="108" y1="68" x2="108" y2="0" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#7f8083"/>
+    <stop offset="1" stop-color="#737477"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_765" x1="36" y1="140" x2="36" y2="72" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#7f8083"/>
+    <stop offset="1" stop-color="#737477"/>
+    </linearGradient>
+    <linearGradient id="_新建渐变色板_11" x1="36" y1="68" x2="36" y2="0" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#8f9093"/>
+    <stop offset="1" stop-color="#838487"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_812" x1="108" y1="140" x2="108" y2="72" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#8f9093"/>
+    <stop offset="1" stop-color="#838487"/>
+    </linearGradient>
+    <pattern id="界面模板_2_2物品槽_外框_纹理_基" patternUnits="userSpaceOnUse" width="144" height="144">
+    <rect x="72" width="72" height="68" fill="url(#_新建渐变色板_12)"/>
+    <rect y="72" width="72" height="68" fill="url(#_未命名的渐变_765)"/>
+    <rect width="72" height="68" fill="url(#_新建渐变色板_11)"/>
+    <rect x="72" y="72" width="72" height="68" fill="url(#_未命名的渐变_812)"/>
+    <rect y="68" width="144" height="4" fill="#a1a2a5"/>
+    <rect y="140" width="144" height="4" fill="#a1a2a5"/>
+    </pattern>
+  </defs>
+  <g transform="translate(-736.000, -803.000)">
+      <g id="_界面_0" data-name="界面 0">
+          <path d="M1398,811h-612c-34,0-42,8-42,42v272c0,34,8,42,42,42h612c34,0,42-8,42-42v-272c0-34-8-42-42-42Z" style="fill-rule: evenodd;"/>
+        </g>  <g id="_界面_1" data-name="界面 1">
+          <g clip-path="url(#clip_界面)">
+            <rect x="748.000" y="1103.000" width="688.000" height="60.000" fill="#7f8083"/>
+            <rect x="748.000" y="1103.000" width="8.000" height="60.000" fill="url(#edge_grad_left_界面)"/>
+            <rect x="1428.000" y="1103.000" width="8.000" height="60.000" fill="url(#edge_grad_right_界面)"/>
+          </g>
+        </g>  <g id="_界面_2" data-name="界面 2">
+          <path d="M1400,815h-616c-28.5,0-36,7.5-36,36v268c0,28.5,7.5,36,36,36h616c28.5,0,36-7.5,36-36v-268c0-28.5-7.5-36-36-36Z" style="fill: #bbbcbf; fill-rule: evenodd;"/>
+        </g>
+
+      <g id="_物品栏外框" data-name="物品栏外框">
+          <path d="M1392.06,1063h-600.11c-12.05,0-19.08.21-23.41,4.56-4.33,4.34-4.54,11.38-4.54,23.44v20c0,12.07.21,19.12,4.55,23.45,4.34,4.34,11.38,4.55,23.45,4.55h600c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-20c0-12.07-.21-19.11-4.53-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_未命名的渐变_4003);"/>
+          <path d="M1392.06,1067c22.95,0,23.94,1.02,23.94,24v20c0,23-1,24-24,24h-600c-23,0-24-1-24-24v-20c0-22.98,1-24,23.94-24,.02,0,.04,0,.06,0h600.06Z" style="fill: url(#界面模板_通用背包_物品栏外框_纹理);"/>
+        </g>
+
+      <g id="_背包外框" data-name="背包外框">
+          <path d="M1392.06,831h-600.11c-12.05,0-19.08.21-23.41,4.56-4.32,4.34-4.53,11.38-4.53,23.44v164c0,12.07.21,19.12,4.55,23.45,4.34,4.34,11.38,4.55,23.45,4.55h600c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-164c0-12.07-.21-19.1-4.54-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_未命名的渐变_4006);"/>
+          <path d="M1392.06,835c22.94,0,23.94,1.02,23.94,24v164c0,23-1,24-24,24h-600c-23,0-24-1-24-24v-164c0-22.98,1-24,23.94-24h600.11Z" style="fill: url(#界面模板_通用背包_背包外框_纹理);"/>
+        </g>
+
+  </g>
+</svg>

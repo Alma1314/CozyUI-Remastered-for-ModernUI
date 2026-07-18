@@ -1,0 +1,40 @@
+{
+  "source": "005-无样式.svg",
+  "component": "物品栏",
+  "viewBox": [
+    150,
+    835,
+    870,
+    100
+  ],
+  "mode": "sub_components",
+  "states": [
+    {
+      "name": "物品栏",
+      "refs": [
+        "_未命名的渐变_381",
+        "_新建渐变色板_16"
+      ],
+      "layers": 3,
+      "edge_glow": false
+    },
+    {
+      "name": "副手",
+      "refs": [
+        "_新建渐变色板_16",
+        "_未命名的渐变_381-2"
+      ],
+      "layers": 3,
+      "edge_glow": false
+    },
+    {
+      "name": "选中",
+      "refs": [
+        "_未命名的渐变_156",
+        "_未命名的渐变_166"
+      ],
+      "layers": 2,
+      "edge_glow": false
+    }
+  ]
+}

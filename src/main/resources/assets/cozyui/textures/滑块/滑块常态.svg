@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 48.0 96.0" width="48.0" height="96.0">
+  <defs>
+    <linearGradient id="_未命名的渐变_41" data-name="未命名的渐变 41" x1="53.95" y1="1312.33" x2="53.95" y2="1313.33" gradientTransform="translate(-1019.86 84448.33) scale(24 -64)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7b7877"/>
+      <stop offset="1" stop-color="#83807f"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_304" data-name="未命名的渐变 304" x1="275" y1="459" x2="275" y2="395" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3a09f"/>
+      <stop offset="1" stop-color="#c3c0bf"/>
+    </linearGradient>
+    <clipPath id="clip_滑块常态">
+      <path d="M287,427v28c0,9.5-2.6,12-13,12h2c-8.6,0-13-2.5-13-12v-28h24Z"/>
+    </clipPath>
+    <linearGradient id="edge_grad_left_滑块常态" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c4948"/>
+      <stop offset="50%" stop-color="#4c4948"/>
+      <stop offset="100%" stop-color="#4c4948" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge_grad_right_滑块常态" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c4948" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#4c4948"/>
+      <stop offset="100%" stop-color="#4c4948"/>
+    </linearGradient>
+  </defs>
+<g transform="translate(-251.000, -382.990)">
+  <g id="_按钮常态_0" data-name="按钮常态 0">
+      <rect x="259" y="390.99" width="32" height="80" rx="14" ry="14"/>
+    </g>  <g id="_按钮常态_1" data-name="按钮常态 1">
+      <g clip-path="url(#clip_滑块常态)">
+        <rect x="263.000" y="427.000" width="24.000" height="40.000" fill="#5c5958"/>
+        <rect x="263.000" y="427.000" width="8.000" height="40.000" fill="url(#edge_grad_left_滑块常态)"/>
+        <rect x="279.000" y="427.000" width="8.000" height="40.000" fill="url(#edge_grad_right_滑块常态)"/>
+      </g>
+    </g>  <g id="_按钮常态_2" data-name="按钮常态 2">
+      <g >
+        <path d="M275,395h0c-8.6,0-12,2.5-12,12v40c0,9.5,3.4,12,12,12h0c10.4,0,12-2.5,12-12v-40c0-9.5-1.6-12-12-12Z" style="fill: url(#_未命名的渐变_41); fill-rule: evenodd;"/>
+        <path d="M275,399c3.9,0,6.25.39,6.98,1.17,1.02,1.08,1.02,5.26,1.02,6.83v40c0,1.57,0,5.74-1.02,6.83-.73.78-3.08,1.17-6.98,1.17-3.4,0-5.52-.44-6.48-1.35-1.01-.95-1.52-3.19-1.52-6.65v-40c0-3.46.51-5.7,1.52-6.65.96-.91,3.09-1.35,6.48-1.35M275,395c-8.6,0-12,2.5-12,12v40c0,9.5,3.4,12,12,12,10.4,0,12-2.5,12-12v-40c0-9.5-1.6-12-12-12h0Z" style="fill: url(#_未命名的渐变_304);"/>
+      </g>
+    </g>
+</g>
+</svg>

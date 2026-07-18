@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 48.0 96.0" width="48.0" height="96.0">
+  <defs>
+    <linearGradient id="_未命名的渐变_288" data-name="未命名的渐变 288" x1="66.45" y1="1311.45" x2="66.45" y2="1312.45" gradientTransform="translate(-4827.86 105439.34) scale(80 -80)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#343130"/>
+      <stop offset="1" stop-color="#2c2928"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_288-3" data-name="未命名的渐变 288" x1="50.41" y1="1312.32" x2="50.41" y2="1313.32" gradientTransform="translate(-1019.86 84447.34) scale(24 -64)" href="#_未命名的渐变_288"/>
+    <linearGradient id="_未命名的渐变_311" data-name="未命名的渐变 311" x1="190" y1="459" x2="190" y2="395" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646160"/>
+      <stop offset="1" stop-color="#444140"/>
+    </linearGradient>
+    <clipPath id="clip_滑块禁用">
+      <path d="M202,427v28c0,9.5-1.6,12-12,12h0c-8.6,0-12-2.5-12-12v-28h24Z"/>
+    </clipPath>
+    <linearGradient id="edge_grad_left_滑块禁用" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2c2928"/>
+      <stop offset="50%" stop-color="#2c2928"/>
+      <stop offset="100%" stop-color="#2c2928" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge_grad_right_滑块禁用" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2c2928" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2c2928"/>
+      <stop offset="100%" stop-color="#2c2928"/>
+    </linearGradient>
+  </defs>
+<g transform="translate(-166.000, -383.000)">
+  <g id="_按钮禁用_0-6" data-name="按钮禁用 0">
+      <rect x="174" y="391" width="32" height="80" rx="14" ry="14"/>
+    </g>  <g id="_按钮禁用_1" data-name="按钮禁用 1">
+      <g clip-path="url(#clip_滑块禁用)">
+        <rect x="178.000" y="427.000" width="24.000" height="40.000" fill="#343130"/>
+        <rect x="178.000" y="427.000" width="8.000" height="40.000" fill="url(#edge_grad_left_滑块禁用)"/>
+        <rect x="194.000" y="427.000" width="8.000" height="40.000" fill="url(#edge_grad_right_滑块禁用)"/>
+      </g>
+    </g>  <g id="_按钮禁用_2-3" data-name="按钮禁用 2">
+      <g >
+        <path d="M190,395h0c-8.6,0-12,2.5-12,12v40c0,9.5,3.4,12,12,12h0c10.4,0,12-2.5,12-12v-40c0-9.5-1.6-12-12-12Z" style="fill: url(#_未命名的渐变_288-3); fill-rule: evenodd;"/>
+        <path d="M190,399c3.9,0,6.25.39,6.98,1.17,1.02,1.08,1.02,5.26,1.02,6.83v40c0,1.57,0,5.74-1.02,6.83-.73.78-3.08,1.17-6.98,1.17-3.4,0-5.52-.44-6.48-1.35-1.01-.95-1.52-3.19-1.52-6.65v-40c0-3.46.51-5.7,1.52-6.65.96-.91,3.09-1.35,6.48-1.35M190,395c-8.6,0-12,2.5-12,12v40c0,9.5,3.4,12,12,12,10.4,0,12-2.5,12-12v-40c0-9.5-1.6-12-12-12h0Z" style="fill: url(#_未命名的渐变_311);"/>
+      </g>
+    </g>
+</g>
+</svg>

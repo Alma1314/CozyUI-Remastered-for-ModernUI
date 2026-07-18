@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 108.0 108.0" width="108.0" height="108.0">
+  <defs>
+    <linearGradient id="_未命名的渐变_156" data-name="未命名的渐变 156" x1="66.4" y1="1306.67" x2="66.4" y2="1307.67" gradientTransform="translate(-5099.86 110687.34) scale(84 -84)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#343130"/>
+      <stop offset="1" stop-color="#242120"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_166" data-name="未命名的渐变 166" x1="478" y1="927" x2="478" y2="843" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7c7978"/>
+      <stop offset="1" stop-color="#a3a09f"/>
+    </linearGradient>
+  </defs>
+<g transform="translate(-424.000, -831.000)">
+  <g id="_按钮禁用_0-2" data-name="按钮禁用 0">
+      <path d="M496,839h-36c-22,0-28,6-28,28v36c0,22,6,28,28,28h36c22,0,28-6,28-28v-36c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+    </g>  <g id="_按钮禁用_2" data-name="按钮禁用 2">
+      <g >
+        <rect x="436" y="843" width="84" height="84" rx="24" ry="24" style="fill: url(#_未命名的渐变_156);"/>
+        <path d="M496,847c8.83,0,13.7,1.11,16.3,3.7s3.7,7.47,3.7,16.3v36c0,8.83-1.11,13.7-3.7,16.3s-7.47,3.7-16.3,3.7h-36c-8.83,0-13.7-1.11-16.3-3.7s-3.7-7.47-3.7-16.3v-36c0-8.83,1.11-13.7,3.7-16.3s7.47-3.7,16.3-3.7h36M496,843h-36c-19,0-24,5-24,24v36c0,19,5,24,24,24h36c19,0,24-5,24-24v-36c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_166);"/>
+      </g>
+    </g>
+</g>
+</svg>

@@ -1,0 +1,59 @@
+{
+  "source": "005-无样式.svg",
+  "component": "勾选框",
+  "viewBox": [
+    318,
+    508,
+    80,
+    88
+  ],
+  "mode": "sub_components",
+  "states": [
+    {
+      "name": "框底部",
+      "refs": [],
+      "layers": 1,
+      "edge_glow": false
+    },
+    {
+      "name": "框本体",
+      "refs": [
+        "_未命名的渐变_477",
+        "_未命名的渐变_475-3"
+      ],
+      "layers": 1,
+      "edge_glow": false
+    },
+    {
+      "name": "红色×",
+      "refs": [
+        "_未命名的渐变_433"
+      ],
+      "layers": 2,
+      "edge_glow": false
+    },
+    {
+      "name": "框本体（选中）",
+      "refs": [
+        "_未命名的渐变_441",
+        "_未命名的渐变_2"
+      ],
+      "layers": 1,
+      "edge_glow": false
+    },
+    {
+      "name": "框本体（绿色）",
+      "refs": [],
+      "layers": 1,
+      "edge_glow": false
+    },
+    {
+      "name": "绿色√",
+      "refs": [
+        "_未命名的渐变_385"
+      ],
+      "layers": 1,
+      "edge_glow": false
+    }
+  ]
+}

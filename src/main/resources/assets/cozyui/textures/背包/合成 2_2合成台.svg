@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 319.3700000000001 188.0" width="319.3700000000001" height="188.0">
+  <defs>
+<linearGradient id="_新建渐变色板_13" data-name="新建渐变色板 13" x1="1388" y1="323" x2="1388" y2="247" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#eff0f3"/>
+  <stop offset="1" stop-color="#eff0f3"/>
+</linearGradient>
+<linearGradient id="_新建渐变色板_13-2" data-name="新建渐变色板 13" x1="1200" y1="355" x2="1200" y2="207" href="#_新建渐变色板_13"/>
+<pattern id="2_2合成台输出_外框_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(1352, 251)"/>
+<pattern id="2_2合成台输入_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(1128, 211)"/>
+    <linearGradient id="_新建渐变色板_12" x1="108" y1="68" x2="108" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7f8083"/>
+      <stop offset="1" stop-color="#737477"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_765" x1="36" y1="140" x2="36" y2="72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7f8083"/>
+      <stop offset="1" stop-color="#737477"/>
+    </linearGradient>
+    <linearGradient id="_新建渐变色板_11" x1="36" y1="68" x2="36" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8f9093"/>
+      <stop offset="1" stop-color="#838487"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_812" x1="108" y1="140" x2="108" y2="72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8f9093"/>
+      <stop offset="1" stop-color="#838487"/>
+    </linearGradient>
+    <pattern id="界面模板_2_2物品槽_外框_纹理_基" patternUnits="userSpaceOnUse" width="144" height="144">
+      <rect x="72" width="72" height="68" fill="url(#_新建渐变色板_12)"/>
+      <rect y="72" width="72" height="68" fill="url(#_未命名的渐变_765)"/>
+      <rect width="72" height="68" fill="url(#_新建渐变色板_11)"/>
+      <rect x="72" y="72" width="72" height="68" fill="url(#_未命名的渐变_812)"/>
+      <rect y="68" width="144" height="4" fill="#a1a2a5"/>
+      <rect y="140" width="144" height="4" fill="#a1a2a5"/>
+    </pattern>
+  </defs>
+<g transform="translate(-1116.000, -171.000)">
+  <image id="_合成箭头_阴影_位图_图像-2" data-name="合成箭头 阴影（位图） 图像" width="47" height="32" transform="translate(1288 272)" href="005-无样式-35.png"/>  <image id="_合成箭头_位图_图像-2" data-name="合成箭头 （位图） 图像" width="47" height="32" transform="translate(1288 268)" href="005-无样式-36.png"/>  <path d="M1403.55,247h-32.02c-9.74,0-15.65.66-19.03,4.16-3.38,3.5-4.05,9.93-4.05,19.84v28c0,10.57,1.1,15.67,4.05,18.82,3.03,3.24,8.34,4.69,18.96,5.17h.09s.09,0,.09,0h32c9.89-.45,15.61-1.37,19.38-5.12,3.83-3.82,4.53-9.35,4.53-18.88v-28c0-11.28-1.22-16.66-4.5-19.84-3.6-3.48-9.87-4.16-19.5-4.16h0Z" style="fill: url(#_新建渐变色板_13);"/>  <path d="M1403.55,251c8.16,0,14.12.52,16.72,3.04,2.33,2.26,3.28,7.17,3.28,16.96v28c0,16.92-2.25,19.19-20.09,20h-31.82c-9.32-.43-14.02-1.56-16.22-3.91-2.14-2.28-2.97-6.8-2.97-16.09v-28c0-8.42.5-14.54,2.92-17.06,2.07-2.15,6.45-2.94,16.16-2.94h32.02Z" style="fill: url(#2_2合成台输出_外框_纹理);"/>  <path d="M1248.06,207h-96.12c-12.05,0-19.07.21-23.41,4.56-4.32,4.34-4.53,11.38-4.53,23.44v92c0,12.07.21,19.12,4.55,23.45s11.38,4.55,23.45,4.55h96c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-92c0-12.07-.21-19.11-4.53-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_新建渐变色板_13-2);"/>  <path d="M1248.06,211c22.95,0,23.94,1.02,23.94,24v92c0,23-1,24-24,24h-96c-23,0-24-1-24-24v-92c0-22.98,1-24,23.94-24h96.12Z" style="fill: url(#2_2合成台输入_纹理);"/>
+</g>
+</svg>

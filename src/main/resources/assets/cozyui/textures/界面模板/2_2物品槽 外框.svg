@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 208.0 304.0" width="208.0" height="304.0">
+  <defs>
+<linearGradient id="_未命名的渐变_4000" data-name="未命名的渐变 4000" x1="640" y1="702" x2="640" y2="554" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#eff0f3"/>
+  <stop offset="1" stop-color="#d7d8db"/>
+</linearGradient>
+<pattern id="界面模板_2_2物品槽_外框_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(568, 558)"/>
+    <linearGradient id="_新建渐变色板_12" x1="108" y1="68" x2="108" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7f8083"/>
+      <stop offset="1" stop-color="#737477"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_765" x1="36" y1="140" x2="36" y2="72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7f8083"/>
+      <stop offset="1" stop-color="#737477"/>
+    </linearGradient>
+    <linearGradient id="_新建渐变色板_11" x1="36" y1="68" x2="36" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8f9093"/>
+      <stop offset="1" stop-color="#838487"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_812" x1="108" y1="140" x2="108" y2="72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8f9093"/>
+      <stop offset="1" stop-color="#838487"/>
+    </linearGradient>
+    <pattern id="界面模板_2_2物品槽_外框_纹理_基" patternUnits="userSpaceOnUse" width="144" height="144">
+      <rect x="72" width="72" height="68" fill="url(#_新建渐变色板_12)"/>
+      <rect y="72" width="72" height="68" fill="url(#_未命名的渐变_765)"/>
+      <rect width="72" height="68" fill="url(#_新建渐变色板_11)"/>
+      <rect x="72" y="72" width="72" height="68" fill="url(#_未命名的渐变_812)"/>
+      <rect y="68" width="144" height="4" fill="#a1a2a5"/>
+      <rect y="140" width="144" height="4" fill="#a1a2a5"/>
+    </pattern>
+  </defs>
+<g transform="translate(-536.000, -434.000)">
+  <g id="_2_2物品槽_外框" data-name="2*2物品槽 外框">
+      <path d="M688.06,554h-96.11c-12.05,0-19.08.21-23.41,4.56-4.33,4.34-4.54,11.38-4.54,23.44v92c0,12.07.21,19.12,4.55,23.45,4.34,4.34,11.38,4.55,23.45,4.55h96c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-92c0-12.07-.21-19.11-4.53-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_未命名的渐变_4000);"/>
+      <path d="M688.06,558c22.95,0,23.94,1.02,23.94,24v92c0,23-1,24-24,24h-96c-23,0-24-1-24-24v-92c0-22.98,1-24,23.94-24h96.11" style="fill: url(#界面模板_2_2物品槽_外框_纹理);"/>
+    </g>
+</g>
+</svg>

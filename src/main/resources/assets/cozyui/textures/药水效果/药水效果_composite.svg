@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 96 96" width="96" height="96">
+  <defs>
+    <linearGradient id="_未命名的渐变_288" data-name="未命名的渐变 288" x1="66.45" y1="1311.45" x2="66.45" y2="1312.45" gradientTransform="translate(-4827.86 105439.34) scale(80 -80)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#343130"/>
+      <stop offset="1" stop-color="#2c2928"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_567" data-name="未命名的渐变 567" x1="488" y1="523" x2="488" y2="443" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646160"/>
+      <stop offset="1" stop-color="#444140"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_705" data-name="未命名的渐变 705" x1="66.45" y1="1312.45" x2="66.45" y2="1311.45" gradientTransform="translate(-4827.86 105439.34) scale(80 -80)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#36305e"/>
+      <stop offset="1" stop-color="#413a72"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_709" data-name="未命名的渐变 709" x1="488" y1="523" x2="488" y2="443" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8d9eee"/>
+      <stop offset=".17" stop-color="#8a96ec"/>
+      <stop offset=".33" stop-color="#878eeb"/>
+      <stop offset=".5" stop-color="#8085e3"/>
+      <stop offset=".67" stop-color="#7a7cdb"/>
+      <stop offset=".83" stop-color="#7975d5"/>
+      <stop offset="1" stop-color="#786fcf"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(-440.000, -435.000)">
+      <g >
+          <rect x="448" y="443" width="80" height="80" rx="24" ry="24" style="fill: url(#_未命名的渐变_288);"/>
+          <path d="M504,447c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v32c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-32c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-32c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h32M504,443h-32c-19,0-24,5-24,24v32c0,19,5,24,24,24h32c19,0,24-5,24-24v-32c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_567);"/>
+        </g>
+
+      <g >
+          <rect x="448" y="443" width="80" height="80" rx="24" ry="24" style="fill: url(#_未命名的渐变_705);"/>
+          <path d="M504,447c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v32c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-32c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-32c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h32M504,443h-32c-19,0-24,5-24,24v32c0,19,5,24,24,24h32c19,0,24-5,24-24v-32c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_709);"/>
+        </g>
+
+  </g>
+</svg>

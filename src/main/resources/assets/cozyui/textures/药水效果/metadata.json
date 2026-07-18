@@ -1,0 +1,31 @@
+{
+  "source": "005-无样式.svg",
+  "component": "药水效果",
+  "viewBox": [
+    440,
+    435,
+    96,
+    96
+  ],
+  "mode": "sub_components",
+  "states": [
+    {
+      "name": "本体",
+      "refs": [
+        "_未命名的渐变_288",
+        "_未命名的渐变_567"
+      ],
+      "layers": 1,
+      "edge_glow": false
+    },
+    {
+      "name": "本体（选中）",
+      "refs": [
+        "_未命名的渐变_705",
+        "_未命名的渐变_709"
+      ],
+      "layers": 1,
+      "edge_glow": false
+    }
+  ]
+}

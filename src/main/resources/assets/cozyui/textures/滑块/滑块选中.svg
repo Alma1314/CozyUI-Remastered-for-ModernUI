@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 48.0 96.0" width="48.0" height="96.0">
+  <defs>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="64.47" y1="1311.5" x2="64.47" y2="1310.5" gradientTransform="translate(-4283.86 94943.34) scale(72 -72)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#786fcf"/>
+      <stop offset="1" stop-color="#7a7cdb"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_2-2" data-name="未命名的渐变 2" x1="57.45" y1="1312.32" x2="57.45" y2="1313.32" gradientTransform="translate(-1019.86 84447.34) scale(24 -64)" href="#_未命名的渐变_2"/>
+    <linearGradient id="_未命名的渐变_297" data-name="未命名的渐变 297" x1="359" y1="459" x2="359" y2="395" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a1a9e8"/>
+      <stop offset="1" stop-color="#bac7ff"/>
+    </linearGradient>
+    <clipPath id="clip_滑块选中">
+      <path d="M347,427v28c0,9.5,2.5,12,12,12s12-2.5,12-12v-28h-24Z"/>
+    </clipPath>
+    <linearGradient id="edge_grad_left_滑块选中" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4b4384"/>
+      <stop offset="50%" stop-color="#4b4384"/>
+      <stop offset="100%" stop-color="#4b4384" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge_grad_right_滑块选中" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4b4384" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#4b4384"/>
+      <stop offset="100%" stop-color="#4b4384"/>
+    </linearGradient>
+  </defs>
+<g transform="translate(-335.000, -383.000)">
+  <g id="_按钮选中_0" data-name="按钮选中 0">
+      <rect x="343" y="391" width="32" height="80" rx="14" ry="14" style="fill: #fff;"/>
+    </g>  <g id="_按钮选中_1" data-name="按钮选中 1">
+      <g clip-path="url(#clip_滑块选中)">
+        <rect x="347.000" y="427.000" width="24.000" height="40.000" fill="#5d53a4"/>
+        <rect x="347.000" y="427.000" width="8.000" height="40.000" fill="url(#edge_grad_left_滑块选中)"/>
+        <rect x="363.000" y="427.000" width="8.000" height="40.000" fill="url(#edge_grad_right_滑块选中)"/>
+      </g>
+    </g>  <g id="_按钮选中_2" data-name="按钮选中 2">
+      <g >
+        <path d="M359,395h0c-8.6,0-12,2.5-12,12v40c0,9.5,3.4,12,12,12h0c10.4,0,12-2.5,12-12v-40c0-9.5-1.6-12-12-12Z" style="fill: url(#_未命名的渐变_2-2); fill-rule: evenodd;"/>
+        <path d="M359,399c3.9,0,6.25.39,6.98,1.17,1.02,1.08,1.02,5.26,1.02,6.83v40c0,1.57,0,5.74-1.02,6.83-.73.78-3.08,1.17-6.98,1.17-3.4,0-5.52-.44-6.48-1.35-1.01-.95-1.52-3.19-1.52-6.65v-40c0-3.46.51-5.7,1.52-6.65.96-.91,3.09-1.35,6.48-1.35M359,395c-8.6,0-12,2.5-12,12v40c0,9.5,3.4,12,12,12,10.4,0,12-2.5,12-12v-40c0-9.5-1.6-12-12-12h0Z" style="fill: url(#_未命名的渐变_297);"/>
+      </g>
+    </g>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 744.0 104.0" width="744.0" height="104.0">
+  <defs>
+    <linearGradient id="_未命名的渐变_381" data-name="未命名的渐变 381" x1="638" y1="927" x2="638" y2="847" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#343130" stop-opacity="0.50"/>
+      <stop offset="1" stop-color="#0c0908" stop-opacity="0.50"/>
+    </linearGradient>
+    <linearGradient id="_新建渐变色板_16" data-name="新建渐变色板 16" x1="638" y1="927" x2="638" y2="847" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7c7978"/>
+      <stop offset="1" stop-color="#a3a09f"/>
+    </linearGradient>
+  </defs>
+<g transform="translate(-266.000, -835.000)">
+  <g id="_按钮禁用_0" data-name="按钮禁用 0">
+      <path d="M974,847c19,0,24,5,24,24v32c0,19-5,24-24,24H302c-19,0-24-5-24-24v-32c0-19,5-24,24-24h672M974,843H302c-21.2,0-28,6.8-28,28v32c0,21.2,6.8,28,28,28h672c21.2,0,28-6.8,28-28v-32c0-21.2-6.8-28-28-28h0Z"/>
+    </g>  <g id="_按钮禁用_1_50_" data-name="按钮禁用 1 (50%)">
+      <path d="M974,851H302c-16.82,0-20,3.18-20,20v32c0,16.82,3.18,20,20,20h672c16.82,0,20-3.18,20-20v-32c0-16.82-3.18-20-20-20h0Z" style="fill: url(#_未命名的渐变_381);"/>
+    </g>  <g id="_按钮禁用_2_75_" data-name="按钮禁用 2 (75%)">
+      <path d="M974,851c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v32c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7H302c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-32c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h672M974,847H302c-19,0-24,5-24,24v32c0,19,5,24,24,24h672c19,0,24-5,24-24v-32c0-19-5-24-24-24h0Z" style="fill: url(#_新建渐变色板_16);"/>
+    </g>
+</g>
+</svg>

@@ -1,0 +1,55 @@
+{
+  "source": "005-无样式.svg",
+  "component": "滑块",
+  "viewBox": [
+    174,
+    391,
+    220,
+    220
+  ],
+  "mode": "sub_components",
+  "states": [
+    {
+      "name": "滑块",
+      "refs": [],
+      "layers": 2,
+      "edge_glow": false
+    },
+    {
+      "name": "滑块导轨",
+      "refs": [
+        "_未命名的渐变_348",
+        "_未命名的渐变_288-2"
+      ],
+      "layers": 2,
+      "edge_glow": false
+    },
+    {
+      "name": "滑块禁用",
+      "refs": [
+        "_未命名的渐变_288-3",
+        "_未命名的渐变_311"
+      ],
+      "layers": 3,
+      "edge_glow": true
+    },
+    {
+      "name": "滑块常态",
+      "refs": [
+        "_未命名的渐变_304",
+        "_未命名的渐变_41"
+      ],
+      "layers": 3,
+      "edge_glow": true
+    },
+    {
+      "name": "滑块选中",
+      "refs": [
+        "_未命名的渐变_297",
+        "_未命名的渐变_2-2"
+      ],
+      "layers": 3,
+      "edge_glow": true
+    }
+  ]
+}

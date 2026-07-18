@@ -1,0 +1,31 @@
+{
+  "source": "005-无样式.svg",
+  "component": "文本框",
+  "viewBox": [
+    336,
+    206,
+    100,
+    84
+  ],
+  "mode": "sub_components",
+  "states": [
+    {
+      "name": "框本体",
+      "refs": [
+        "_未命名的渐变_475",
+        "_新建渐变色板_8"
+      ],
+      "layers": 1,
+      "edge_glow": false
+    },
+    {
+      "name": "框本体（选中）",
+      "refs": [
+        "_未命名的渐变_475-2",
+        "_未命名的渐变_562"
+      ],
+      "layers": 1,
+      "edge_glow": false
+    }
+  ]
+}

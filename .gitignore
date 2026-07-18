@@ -1,0 +1,13 @@
+.gradle/
+build/
+*.iml
+*.ipr
+*.iws
+out/
+bin/
+.idea/
+icyllis/
+CinderUI/
+*.psd
+*.ai
+*.mp4

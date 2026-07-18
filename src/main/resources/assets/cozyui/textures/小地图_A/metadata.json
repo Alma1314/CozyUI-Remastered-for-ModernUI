@@ -1,0 +1,19 @@
+{
+  "source": "005-无样式.svg",
+  "component": "小地图 A",
+  "viewBox": [
+    145,
+    260,
+    335,
+    340
+  ],
+  "mode": "sub_components",
+  "states": [
+    {
+      "name": "小地图 A",
+      "refs": [],
+      "layers": 3,
+      "edge_glow": false
+    }
+  ]
+}

@@ -17,7 +17,7 @@
 - 所有 View 继承 `icyllis.modernui.view.View`
 - Fragment 继承 `icyllis.modernui.fragment.Fragment` 实现 `ScreenCallback`
 - 不依赖 CinderUI 现有任何模块（:color, :batik）
-- 组名 `com.goblincoders.cozyui`
+- 组名 `com.alma.cozyui`
 - 模组 ID `cozyui`
 
 ## File Structure
@@ -73,7 +73,7 @@ java {
     withSourcesJar()
 }
 
-group = 'com.goblincoders'
+group = 'com.alma'
 version = '1.0.0'
 
 repositories {
@@ -108,7 +108,7 @@ neoForge {
 创建 `cozyui-modernui/src/main/java/com/goblincoders/cozyui/CozyUI.java`：
 
 ```java
-package com.goblincoders.cozyui;
+package com.alma.cozyui;
 
 import net.neoforged.fml.common.Mod;
 
@@ -180,7 +180,7 @@ git commit -m "feat: add project scaffold with Gradle config and mod entry point
 创建 `ColorScheme.java`：
 
 ```java
-package com.goblincoders.cozyui.color;
+package com.alma.cozyui.color;
 
 public class ColorScheme {
     /** L0 外框填充色。alpha=0 不渲染。 */
@@ -355,7 +355,7 @@ git commit -m "feat: add ColorScheme with 9 presets and JSON resource"
 创建文件 `SquirclePath.java`，先写 squircle 基础方法和 roundRect：
 
 ```java
-package com.goblincoders.cozyui.canvas;
+package com.alma.cozyui.canvas;
 
 import icyllis.modernui.graphics.Path;
 
@@ -365,7 +365,8 @@ import icyllis.modernui.graphics.Path;
  */
 public final class SquirclePath {
 
-    private SquirclePath() {}
+    private SquirclePath() {
+    }
 
     /**
      * Squircle（超椭圆圆角矩形）封闭路径。
@@ -380,13 +381,13 @@ public final class SquirclePath {
         Path p = new Path();
         p.moveTo(x + w - r, y);
         p.lineTo(x + r, y);
-        p.cubicTo(x + r - crv, y,         x,      y + off,  x,       y + r);
+        p.cubicTo(x + r - crv, y, x, y + off, x, y + r);
         p.lineTo(x, y + h - r);
-        p.cubicTo(x, y + h - r + crv,     x + off, y + h,    x + r,   y + h);
+        p.cubicTo(x, y + h - r + crv, x + off, y + h, x + r, y + h);
         p.lineTo(x + w - r, y + h);
-        p.cubicTo(x + w - r + crv, y + h, x + w,   y + h - off, x + w, y + h - r);
+        p.cubicTo(x + w - r + crv, y + h, x + w, y + h - off, x + w, y + h - r);
         p.lineTo(x + w, y + r);
-        p.cubicTo(x + w, y + r - crv,     x + w - off, y,    x + w - r, y);
+        p.cubicTo(x + w, y + r - crv, x + w - off, y, x + w - r, y);
         p.close();
         return p;
     }
@@ -573,9 +574,9 @@ git commit -m "feat: add SquirclePath — squircle, ring, L1 clip, and capsule g
 - [ ] **Step 1: 创建 CozyCanvasRenderer.java**
 
 ```java
-package com.goblincoders.cozyui.canvas;
+package com.alma.cozyui.canvas;
 
-import com.goblincoders.cozyui.color.ColorScheme;
+import com.alma.cozyui.color.ColorScheme;
 import icyllis.modernui.graphics.Canvas;
 import icyllis.modernui.graphics.Paint;
 import icyllis.modernui.graphics.Path;
@@ -589,7 +590,8 @@ import icyllis.modernui.graphics.Shader;
  */
 public final class CozyCanvasRenderer {
 
-    private CozyCanvasRenderer() {}
+    private CozyCanvasRenderer() {
+    }
 
     // 复用 Paint 对象减少分配
     private static final Paint PAINT = new Paint(Paint.ANTI_ALIAS_FLAG);
@@ -899,10 +901,10 @@ git commit -m "feat: add CozyCanvasRenderer — draws Button/Frame/Slider/Scroll
 - [ ] **Step 1: 创建 CozyButton.java**
 
 ```java
-package com.goblincoders.cozyui.widget;
+package com.alma.cozyui.widget;
 
-import com.goblincoders.cozyui.canvas.CozyCanvasRenderer;
-import com.goblincoders.cozyui.color.ColorScheme;
+import com.alma.cozyui.canvas.CozyCanvasRenderer;
+import com.alma.cozyui.color.ColorScheme;
 
 import icyllis.modernui.annotation.NonNull;
 import icyllis.modernui.graphics.Canvas;
@@ -951,8 +953,13 @@ public class CozyButton extends View {
         invalidate();
     }
 
-    public float getDesignW() { return mDesignW; }
-    public float getDesignH() { return mDesignH; }
+    public float getDesignW() {
+        return mDesignW;
+    }
+
+    public float getDesignH() {
+        return mDesignH;
+    }
 
     @Override
     protected void onDraw(@NonNull Canvas canvas) {
@@ -1001,10 +1008,10 @@ git commit -m "feat: add CozyButton widget with drawableState-based color switch
 - [ ] **Step 1: 创建 CozyFrame.java**
 
 ```java
-package com.goblincoders.cozyui.widget;
+package com.alma.cozyui.widget;
 
-import com.goblincoders.cozyui.canvas.CozyCanvasRenderer;
-import com.goblincoders.cozyui.color.ColorScheme;
+import com.alma.cozyui.canvas.CozyCanvasRenderer;
+import com.alma.cozyui.color.ColorScheme;
 
 import icyllis.modernui.annotation.NonNull;
 import icyllis.modernui.core.Context;
@@ -1030,7 +1037,9 @@ public class CozyFrame extends View {
         invalidate();
     }
 
-    public ColorScheme getColorScheme() { return mColors; }
+    public ColorScheme getColorScheme() {
+        return mColors;
+    }
 
     public void setDesignSize(float w, float h) {
         mDesignW = w;
@@ -1038,8 +1047,13 @@ public class CozyFrame extends View {
         invalidate();
     }
 
-    public float getDesignW() { return mDesignW; }
-    public float getDesignH() { return mDesignH; }
+    public float getDesignW() {
+        return mDesignW;
+    }
+
+    public float getDesignH() {
+        return mDesignH;
+    }
 
     @Override
     protected void onDraw(@NonNull Canvas canvas) {
@@ -1082,10 +1096,10 @@ git commit -m "feat: add CozyFrame widget for panel/text-box backgrounds"
 - [ ] **Step 1: 创建 CozySlider.java**
 
 ```java
-package com.goblincoders.cozyui.widget;
+package com.alma.cozyui.widget;
 
-import com.goblincoders.cozyui.canvas.CozyCanvasRenderer;
-import com.goblincoders.cozyui.color.ColorScheme;
+import com.alma.cozyui.canvas.CozyCanvasRenderer;
+import com.alma.cozyui.color.ColorScheme;
 
 import icyllis.modernui.annotation.NonNull;
 import icyllis.modernui.core.Context;
@@ -1131,8 +1145,13 @@ public class CozySlider extends View {
         invalidate();
     }
 
-    public float getDesignW() { return mDesignW; }
-    public float getDesignH() { return mDesignH; }
+    public float getDesignW() {
+        return mDesignW;
+    }
+
+    public float getDesignH() {
+        return mDesignH;
+    }
 
     @Override
     protected void onDraw(@NonNull Canvas canvas) {
@@ -1181,10 +1200,10 @@ git commit -m "feat: add CozySlider widget — standard round-rect handle with L
 - [ ] **Step 1: 创建 CozyScrollbar.java**
 
 ```java
-package com.goblincoders.cozyui.widget;
+package com.alma.cozyui.widget;
 
-import com.goblincoders.cozyui.canvas.CozyCanvasRenderer;
-import com.goblincoders.cozyui.color.ColorScheme;
+import com.alma.cozyui.canvas.CozyCanvasRenderer;
+import com.alma.cozyui.color.ColorScheme;
 
 import icyllis.modernui.annotation.NonNull;
 import icyllis.modernui.core.Context;
@@ -1210,7 +1229,9 @@ public class CozyScrollbar extends View {
         invalidate();
     }
 
-    public ColorScheme getColorScheme() { return mColors; }
+    public ColorScheme getColorScheme() {
+        return mColors;
+    }
 
     /**
      * 设置设计高度（宽度固定 24）。
@@ -1221,7 +1242,9 @@ public class CozyScrollbar extends View {
         invalidate();
     }
 
-    public float getDesignH() { return mDesignH; }
+    public float getDesignH() {
+        return mDesignH;
+    }
 
     @Override
     protected void onDraw(@NonNull Canvas canvas) {
@@ -1264,7 +1287,7 @@ git commit -m "feat: add CozyScrollbar widget — capsule shape, fixed 24px widt
 - [ ] **Step 1: 创建 CozyFragment.java**
 
 ```java
-package com.goblincoders.cozyui.fragment;
+package com.alma.cozyui.fragment;
 
 import icyllis.modernui.fragment.Fragment;
 import icyllis.modernui.mc.ScreenCallback;

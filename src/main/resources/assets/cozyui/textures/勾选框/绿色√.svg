@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 53.10000000000002 53.370000000000005" width="53.10000000000002" height="53.370000000000005">
+  <defs>
+    <linearGradient id="_未命名的渐变_385" data-name="未命名的渐变 385" x1="358.25" y1="574.99" x2="358.25" y2="526.62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#47c729"/>
+      <stop offset="1" stop-color="#6ce045"/>
+    </linearGradient>
+  </defs>
+<g transform="translate(-331.700, -524.120)">
+  <polyline points="339.7 555.28 355.73 569.49 376.8 532.12" style="fill: none; stroke: url(#_未命名的渐变_385); stroke-linecap: round; stroke-linejoin: round; stroke-width: 11px;"/>
+</g>
+</svg>

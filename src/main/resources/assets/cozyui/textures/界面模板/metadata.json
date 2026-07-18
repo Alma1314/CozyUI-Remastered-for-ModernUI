@@ -1,0 +1,49 @@
+{
+  "source": "005-无样式.svg",
+  "component": "界面模板",
+  "viewBox": [
+    540,
+    400,
+    240,
+    340
+  ],
+  "mode": "simple",
+  "states": [
+    {
+      "name": "界面模板",
+      "refs": [],
+      "layers": 3,
+      "edge_glow": true
+    },
+    {
+      "name": "2*2物品槽 外框",
+      "refs": [
+        "_未命名的渐变_4000",
+        "界面模板_2_2物品槽_外框_纹理"
+      ],
+      "layers": 1,
+      "edge_glow": true
+    },
+    {
+      "name": "界面模板 6 图像",
+      "refs": [
+        "_未命名的渐变_3995",
+        "_未命名的渐变_3989"
+      ],
+      "layers": 1,
+      "edge_glow": true
+    },
+    {
+      "name": "合成箭头 0 图像",
+      "refs": [],
+      "layers": 1,
+      "edge_glow": true
+    },
+    {
+      "name": "合成箭头 1 图像",
+      "refs": [],
+      "layers": 1,
+      "edge_glow": true
+    }
+  ]
+}

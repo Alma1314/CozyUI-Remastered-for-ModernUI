@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2056 1544">
+  <defs>
+    <linearGradient id="_未命名的渐变_381" data-name="未命名的渐变 381" x1="638" y1="927" x2="638" y2="847" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#343130" stop-opacity="0.50"/>
+      <stop offset="1" stop-color="#0c0908" stop-opacity="0.50"/>
+    </linearGradient>
+    <linearGradient id="_新建渐变色板_16" data-name="新建渐变色板 16" x1="638" y1="927" x2="638" y2="847" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7c7978"/>
+      <stop offset="1" stop-color="#a3a09f"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_381-2" data-name="未命名的渐变 381" x1="62.87" y1="1306.4" x2="62.87" y2="1307.4" gradientTransform="translate(-4827.86 105439.34) scale(80 -80)" xlink:href="#_未命名的渐变_381"/>
+    <linearGradient id="_未命名的渐变_429" data-name="未命名的渐变 429" x1="202" y1="927" x2="202" y2="847" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3a09f"/>
+      <stop offset="1" stop-color="#c3c0bf"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_156" data-name="未命名的渐变 156" x1="66.4" y1="1306.67" x2="66.4" y2="1307.67" gradientTransform="translate(-5099.86 110687.34) scale(84 -84)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#343130"/>
+      <stop offset="1" stop-color="#242120"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_166" data-name="未命名的渐变 166" x1="478" y1="927" x2="478" y2="843" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7c7978"/>
+      <stop offset="1" stop-color="#a3a09f"/>
+    </linearGradient>
+    <mask id="mask" x="0" y="0" width="2056" height="1544" maskUnits="userSpaceOnUse">
+      <g id="_经验不透明蒙版" data-name="经验不透明蒙版">
+        <image id="_经验不透明蒙版-2" data-name="经验不透明蒙版" width="2056" height="1544" xlink:href="005-无样式-1.png"/>
+      </g>
+    </mask>
+    <mask id="mask-1" x="0" y="0" width="2056" height="1544" maskUnits="userSpaceOnUse">
+      <g id="_经验_跳跃不透明蒙版" data-name="经验 跳跃不透明蒙版">
+        <image id="_经验_跳跃不透明蒙版-2" data-name="经验 跳跃不透明蒙版" width="2056" height="1544" xlink:href="005-无样式-3.png"/>
+      </g>
+    </mask>
+    <linearGradient id="_未命名的渐变_4000" data-name="未命名的渐变 4000" x1="640" y1="702" x2="640" y2="554" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eff0f3"/>
+      <stop offset="1" stop-color="#d7d8db"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_3989" data-name="未命名的渐变 3989" x1="69.08" y1="1311.01" x2="69.08" y2="1312.01" gradientTransform="translate(-3744.96 84442.37) scale(64 -64)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#303134"/>
+      <stop offset="1" stop-color="#28292c"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_3995" data-name="未命名的渐变 3995" x1="676" y1="542" x2="676" y2="470" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eff0f3"/>
+      <stop offset="1" stop-color="#d7d8db"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_4003" data-name="未命名的渐变 4003" x1="1092" y1="1115" x2="1092" y2="1063" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eff0f3"/>
+      <stop offset="1" stop-color="#d7d8db"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_4006" data-name="未命名的渐变 4006" x1="1092" y1="1051" x2="1092" y2="831" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eff0f3"/>
+      <stop offset="1" stop-color="#d7d8db"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_4009" data-name="未命名的渐变 4009" x1="1092" y1="755" x2="1092" y2="703" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eff0f3"/>
+      <stop offset="1" stop-color="#d7d8db"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_4012" data-name="未命名的渐变 4012" x1="1092" y1="691" x2="1092" y2="471" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eff0f3"/>
+      <stop offset="1" stop-color="#d7d8db"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_3924" data-name="未命名的渐变 3924" x1="69.71" y1="1312.07" x2="69.71" y2="1313.07" gradientTransform="translate(-12720.96 373082.38) scale(196 -284)" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#2e2f32"/>
+      <stop offset=".75" stop-color="#2c2d30"/>
+      <stop offset="1" stop-color="#28292c"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_3947" data-name="未命名的渐变 3947" x1="915" y1="431" x2="915" y2="167" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eff0f3"/>
+      <stop offset="1" stop-color="#d7d8db"/>
+    </linearGradient>
+    <linearGradient id="_新建渐变色板_13" data-name="新建渐变色板 13" x1="1388" y1="323" x2="1388" y2="247" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eff0f3"/>
+      <stop offset="1" stop-color="#eff0f3"/>
+    </linearGradient>
+    <linearGradient id="_新建渐变色板_13-2" data-name="新建渐变色板 13" x1="1200" y1="355" x2="1200" y2="207" xlink:href="#_新建渐变色板_13"/>
+    <linearGradient id="_新建渐变色板_12" data-name="新建渐变色板 12" x1="108" y1="68" x2="108" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7f8083"/>
+      <stop offset="1" stop-color="#737477"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_765" data-name="未命名的渐变 765" x1="36" y1="140" x2="36" y2="72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7f8083"/>
+      <stop offset="1" stop-color="#737477"/>
+    </linearGradient>
+    <linearGradient id="_新建渐变色板_11" data-name="新建渐变色板 11" x1="36" y1="68" x2="36" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8f9093"/>
+      <stop offset="1" stop-color="#838487"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_812" data-name="未命名的渐变 812" x1="108" y1="140" x2="108" y2="72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8f9093"/>
+      <stop offset="1" stop-color="#838487"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_817" data-name="未命名的渐变 817" x1="72" y1="72" x2="72" y2="68" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8f9093"/>
+      <stop offset="1" stop-color="#a1a2a5"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_817-2" data-name="未命名的渐变 817" y1="144" y2="140" xlink:href="#_未命名的渐变_817"/>
+    <linearGradient id="_未命名的渐变_288" data-name="未命名的渐变 288" x1="66.45" y1="1311.45" x2="66.45" y2="1312.45" gradientTransform="translate(-4827.86 105439.34) scale(80 -80)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#343130"/>
+      <stop offset="1" stop-color="#2c2928"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_567" data-name="未命名的渐变 567" x1="488" y1="523" x2="488" y2="443" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646160"/>
+      <stop offset="1" stop-color="#444140"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_705" data-name="未命名的渐变 705" x1="66.45" y1="1312.45" x2="66.45" y2="1311.45" gradientTransform="translate(-4827.86 105439.34) scale(80 -80)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#36305e"/>
+      <stop offset="1" stop-color="#413a72"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_709" data-name="未命名的渐变 709" x1="488" y1="523" x2="488" y2="443" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8d9eee"/>
+      <stop offset=".17" stop-color="#8a96ec"/>
+      <stop offset=".33" stop-color="#878eeb"/>
+      <stop offset=".5" stop-color="#8085e3"/>
+      <stop offset=".67" stop-color="#7a7cdb"/>
+      <stop offset=".83" stop-color="#7975d5"/>
+      <stop offset="1" stop-color="#786fcf"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_475" data-name="未命名的渐变 475" x1="65.54" y1="1314.74" x2="65.54" y2="1315.74" gradientTransform="translate(-5643.86 94943.34) scale(92 -72)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#343130"/>
+      <stop offset="1" stop-color="#201d1c"/>
+    </linearGradient>
+    <linearGradient id="_新建渐变色板_8" data-name="新建渐变色板 8" x1="386" y1="282" x2="386" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6f6c6b"/>
+      <stop offset="1" stop-color="#83807f"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_475-2" data-name="未命名的渐变 475" x1="65.54" y1="1314.74" x2="65.54" y2="1315.74" xlink:href="#_未命名的渐变_475"/>
+    <linearGradient id="_未命名的渐变_562" data-name="未命名的渐变 562" x1="386" y1="282" x2="386" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3a09f"/>
+      <stop offset="1" stop-color="#c3c0bf"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_475-3" data-name="未命名的渐变 475" x1="64.47" y1="1310.5" x2="64.47" y2="1311.5" gradientTransform="translate(-4283.86 94943.34) scale(72 -72)" xlink:href="#_未命名的渐变_475"/>
+    <linearGradient id="_未命名的渐变_477" data-name="未命名的渐变 477" x1="358" y1="587" x2="358" y2="515" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646160"/>
+      <stop offset="1" stop-color="#444140"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="64.47" y1="1311.5" x2="64.47" y2="1310.5" gradientTransform="translate(-4283.86 94943.34) scale(72 -72)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#786fcf"/>
+      <stop offset="1" stop-color="#7a7cdb"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_441" data-name="未命名的渐变 441" x1="358" y1="587" x2="358" y2="515" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a1a9e8"/>
+      <stop offset="1" stop-color="#bac7ff"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_433" data-name="未命名的渐变 433" x1="358.33" y1="575.81" x2="358.33" y2="526.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#da4334"/>
+      <stop offset="1" stop-color="#ed6655"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_385" data-name="未命名的渐变 385" x1="358.25" y1="574.99" x2="358.25" y2="526.62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#47c729"/>
+      <stop offset="1" stop-color="#6ce045"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_288-2" data-name="未命名的渐变 288" x1="63.32" y1="1312.51" x2="63.32" y2="1313.51" gradientTransform="translate(-4283.86 63455.34) scale(72 -48)" xlink:href="#_未命名的渐变_288"/>
+    <linearGradient id="_未命名的渐变_348" data-name="未命名的渐变 348" x1="275" y1="455" x2="275" y2="407" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646160"/>
+      <stop offset="1" stop-color="#444140"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_288-3" data-name="未命名的渐变 288" x1="50.41" y1="1312.32" x2="50.41" y2="1313.32" gradientTransform="translate(-1019.86 84447.34) scale(24 -64)" xlink:href="#_未命名的渐变_288"/>
+    <linearGradient id="_未命名的渐变_311" data-name="未命名的渐变 311" x1="190" y1="459" x2="190" y2="395" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646160"/>
+      <stop offset="1" stop-color="#444140"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_41" data-name="未命名的渐变 41" x1="53.95" y1="1312.33" x2="53.95" y2="1313.33" gradientTransform="translate(-1019.86 84448.33) scale(24 -64)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7b7877"/>
+      <stop offset="1" stop-color="#83807f"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_304" data-name="未命名的渐变 304" x1="275" y1="459" x2="275" y2="395" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3a09f"/>
+      <stop offset="1" stop-color="#c3c0bf"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_2-2" data-name="未命名的渐变 2" x1="57.45" y1="1312.32" x2="57.45" y2="1313.32" gradientTransform="translate(-1019.86 84447.34) scale(24 -64)" xlink:href="#_未命名的渐变_2"/>
+    <linearGradient id="_未命名的渐变_297" data-name="未命名的渐变 297" x1="359" y1="459" x2="359" y2="395" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a1a9e8"/>
+      <stop offset="1" stop-color="#bac7ff"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_288-4" data-name="未命名的渐变 288" x1="62.47" y1="1313.63" x2="62.47" y2="1314.63" gradientTransform="translate(-4283.86 84447.34) scale(72 -64)" xlink:href="#_未命名的渐变_288"/>
+    <linearGradient id="_未命名的渐变_340" data-name="未命名的渐变 340" x1="214" y1="375" x2="214" y2="311" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646160"/>
+      <stop offset="1" stop-color="#444140"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_41-2" data-name="未命名的渐变 41" x1="63.65" y1="1313.63" x2="63.65" y2="1314.63" gradientTransform="translate(-4283.86 84447.34) scale(72 -64)" xlink:href="#_未命名的渐变_41"/>
+    <linearGradient id="_未命名的渐变_333" data-name="未命名的渐变 333" x1="299" y1="375" x2="299" y2="311" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3a09f"/>
+      <stop offset="1" stop-color="#c3c0bf"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_2-3" data-name="未命名的渐变 2" x1="64.82" y1="1313.63" x2="64.82" y2="1314.63" gradientTransform="translate(-4283.86 84447.34) scale(72 -64)" xlink:href="#_未命名的渐变_2"/>
+    <linearGradient id="_未命名的渐变_317" data-name="未命名的渐变 317" x1="383" y1="375" x2="383" y2="311" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a1a9e8"/>
+      <stop offset="1" stop-color="#bac7ff"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_288-5" data-name="未命名的渐变 288" x1="81.41" y1="1311.02" x2="81.41" y2="1312.02" gradientTransform="translate(-4283.86 84447.34) scale(72 -64)" xlink:href="#_未命名的渐变_288"/>
+    <linearGradient id="_未命名的渐变_292" data-name="未命名的渐变 292" x1="1578" y1="542" x2="1578" y2="478" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646160"/>
+      <stop offset="1" stop-color="#444140"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_41-3" data-name="未命名的渐变 41" x1="81.41" y1="1311.02" x2="81.41" y2="1312.02" gradientTransform="translate(-4283.86 84447.34) scale(72 -64)" xlink:href="#_未命名的渐变_41"/>
+    <linearGradient id="_未命名的渐变_284" data-name="未命名的渐变 284" x1="1578" y1="542" x2="1578" y2="478" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3a09f"/>
+      <stop offset="1" stop-color="#c3c0bf"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_2-4" data-name="未命名的渐变 2" x1="81.41" y1="1311.02" x2="81.41" y2="1312.02" gradientTransform="translate(-4283.86 84447.34) scale(72 -64)" xlink:href="#_未命名的渐变_2"/>
+    <linearGradient id="_未命名的渐变_277" data-name="未命名的渐变 277" x1="1578" y1="542" x2="1578" y2="478" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a1a9e8"/>
+      <stop offset="1" stop-color="#bac7ff"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_273" data-name="未命名的渐变 273" x1="1578" y1="626" x2="1578" y2="562" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646160"/>
+      <stop offset="1" stop-color="#545150"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_262" data-name="未命名的渐变 262" x1="1578" y1="626" x2="1578" y2="562" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3a09f"/>
+      <stop offset="1" stop-color="#b3b0af"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_255" data-name="未命名的渐变 255" x1="1578" y1="626" x2="1578" y2="562" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a1a9e8"/>
+      <stop offset="1" stop-color="#adb8f3"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_81" data-name="未命名的渐变 81" x1="84.34" y1="1310.88" x2="84.34" y2="1311.88" gradientTransform="translate(-3739.86 73951.34) scale(64 -56)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#343130"/>
+      <stop offset="1" stop-color="#302d2c"/>
+    </linearGradient>
+    <linearGradient id="_新建渐变色板_3" data-name="新建渐变色板 3" x1="1658" y1="542" x2="1658" y2="486" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646160"/>
+      <stop offset="1" stop-color="#444140"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_41-4" data-name="未命名的渐变 41" x1="84.34" y1="1310.88" x2="84.34" y2="1311.88" gradientTransform="translate(-3739.86 73951.34) scale(64 -56)" xlink:href="#_未命名的渐变_41"/>
+    <linearGradient id="_新建渐变色板_4" data-name="新建渐变色板 4" x1="1658" y1="542" x2="1658" y2="486" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3a09f"/>
+      <stop offset="1" stop-color="#c3c0bf"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_2-5" data-name="未命名的渐变 2" x1="84.34" y1="1310.88" x2="84.34" y2="1311.88" gradientTransform="translate(-3739.86 73951.34) scale(64 -56)" xlink:href="#_未命名的渐变_2"/>
+    <linearGradient id="_新建渐变色板_5" data-name="新建渐变色板 5" x1="1658" y1="542" x2="1658" y2="486" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a1a9e8"/>
+      <stop offset="1" stop-color="#bac7ff"/>
+    </linearGradient>
+    <pattern id="界面模板_2_2物品槽_外框_纹理_基" patternUnits="userSpaceOnUse" width="144" height="144">
+      <rect x="72" width="72" height="68" fill="url(#_新建渐变色板_12)"/>
+      <rect y="72" width="72" height="68" fill="url(#_未命名的渐变_765)"/>
+      <rect width="72" height="68" fill="url(#_新建渐变色板_11)"/>
+      <rect x="72" y="72" width="72" height="68" fill="url(#_未命名的渐变_812)"/>
+      <rect y="68" width="144" height="4" fill="#a1a2a5"/>
+      <rect y="140" width="144" height="4" fill="#a1a2a5"/>
+    </pattern>
+    <pattern id="界面模板_2_2物品槽_外框_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(568, 558)"/>
+    <pattern id="界面模板_通用背包_物品栏外框_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(768, 1139)"/>
+    <pattern id="界面模板_通用背包_背包外框_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(768, 835)"/>
+    <pattern id="副手槽_人物模型_装备槽_副手槽_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(1044, 387)"/>
+    <pattern id="副手槽_人物模型_装备槽_装备槽_左_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(768, 171)"/>
+    <pattern id="背包_物品栏外框_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(768, 779)"/>
+    <pattern id="背包_背包外框_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(768, 475)"/>
+    <pattern id="2_2合成台输出_外框_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(1352, 251)"/>
+    <pattern id="2_2合成台输入_纹理" href="#界面模板_2_2物品槽_外框_纹理_基" patternTransform="translate(1128, 211)"/>
+  </defs>
+  <g id="_物品栏" data-name="物品栏">
+    <g id="_物品栏-2" data-name="物品栏">
+      <g id="_按钮禁用_0" data-name="按钮禁用 0">
+        <path d="M974,847c19,0,24,5,24,24v32c0,19-5,24-24,24H302c-19,0-24-5-24-24v-32c0-19,5-24,24-24h672M974,843H302c-21.2,0-28,6.8-28,28v32c0,21.2,6.8,28,28,28h672c21.2,0,28-6.8,28-28v-32c0-21.2-6.8-28-28-28h0Z"/>
+      </g>
+      <g id="_按钮禁用_1_50_" data-name="按钮禁用 1 (50%)">
+        <path d="M974,851H302c-16.82,0-20,3.18-20,20v32c0,16.82,3.18,20,20,20h672c16.82,0,20-3.18,20-20v-32c0-16.82-3.18-20-20-20h0Z" style="fill: url(#_未命名的渐变_381);"/>
+      </g>
+      <g id="_按钮禁用_2_75_" data-name="按钮禁用 2 (75%)">
+        <path d="M974,851c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v32c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7H302c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-32c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h672M974,847H302c-19,0-24,5-24,24v32c0,19,5,24,24,24h672c19,0,24-5,24-24v-32c0-19-5-24-24-24h0Z" style="fill: url(#_新建渐变色板_16);"/>
+      </g>
+    </g>
+    <g id="_副手" data-name="副手">
+      <g id="_按钮禁用_0" data-name="按钮禁用 0">
+        <path d="M218,847c19,0,24,5,24,24v32c0,19-5,24-24,24h-32c-19,0-24-5-24-24v-32c0-19,5-24,24-24h32M218,843h-32c-21.2,0-28,6.8-28,28v32c0,21.2,6.8,28,28,28h32c21.2,0,28-6.8,28-28v-32c0-21.2-6.8-28-28-28h0Z"/>
+      </g>
+      <g id="_按钮禁用_1_50_" data-name="按钮禁用 1 (50%)">
+        <path d="M218,851h-32c-16.82,0-20,3.18-20,20v32c0,16.82,3.18,20,20,20h32c16.82,0,20-3.18,20-20v-32c0-16.82-3.18-20-20-20h0Z" style="fill: url(#_未命名的渐变_381-2);"/>
+      </g>
+      <g id="_按钮禁用_2_75_" data-name="按钮禁用 2 (75%)">
+        <path d="M218,851c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v32c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-32c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-32c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h32M218,847h-32c-19,0-24,5-24,24v32c0,19,5,24,24,24h32c19,0,24-5,24-24v-32c0-19-5-24-24-24h0Z" style="fill: url(#_新建渐变色板_16);"/>
+      </g>
+    </g>
+    <g id="_选中" data-name="选中">
+      <g id="_按钮禁用_0-2" data-name="按钮禁用 0">
+        <path d="M496,839h-36c-22,0-28,6-28,28v36c0,22,6,28,28,28h36c22,0,28-6,28-28v-36c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮禁用_2" data-name="按钮禁用 2">
+        <g>
+          <rect x="436" y="843" width="84" height="84" rx="24" ry="24" style="fill: url(#_未命名的渐变_156);"/>
+          <path d="M496,847c8.83,0,13.7,1.11,16.3,3.7s3.7,7.47,3.7,16.3v36c0,8.83-1.11,13.7-3.7,16.3s-7.47,3.7-16.3,3.7h-36c-8.83,0-13.7-1.11-16.3-3.7s-3.7-7.47-3.7-16.3v-36c0-8.83,1.11-13.7,3.7-16.3s7.47-3.7,16.3-3.7h36M496,843h-36c-19,0-24,5-24,24v36c0,19,5,24,24,24h36c19,0,24-5,24-24v-36c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_166);"/>
+        </g>
+      </g>
+    </g>
+    <g style="mask: url(#mask);">
+      <g id="_经验" data-name="经验">
+        <g id="_按钮禁用_0-3" data-name="按钮禁用 0">
+          <path d="M978,815H298c-22,0-24,5-24,10,0,5,2,10,24,10h680c22,0,24-5,24-10s-2-10-24-10Z" style="fill-rule: evenodd;"/>
+        </g>
+        <g id="_按钮禁用_2_图像" data-name="按钮禁用 2 图像">
+          <image id="_按钮禁用_2_图像-2" data-name="按钮禁用 2 图像" width="720" height="12" transform="translate(278 819)" xlink:href="005-无样式-2.png"/>
+        </g>
+      </g>
+    </g>
+    <g style="mask: url(#mask-1);">
+      <g id="_经验_跳跃" data-name="经验 跳跃">
+        <g id="_按钮禁用_0-4" data-name="按钮禁用 0">
+          <path d="M978,965H298c-22,0-24,5-24,10,0,5,2,10,24,10h680c22,0,24-5,24-10s-2-10-24-10Z" style="fill-rule: evenodd;"/>
+        </g>
+        <g id="_按钮禁用_2_图像-3" data-name="按钮禁用 2 图像">
+          <image id="_按钮禁用_2_图像-4" data-name="按钮禁用 2 图像" width="720" height="12" transform="translate(278 969)" xlink:href="005-无样式-4.png"/>
+        </g>
+        <g id="_图层_41_图像" data-name="图层 41 图像">
+          <image id="_图层_41_图像-2" data-name="图层 41 图像" width="4" height="20" transform="translate(918 965)" xlink:href="005-无样式-5.png"/>
+        </g>
+        <g id="_透明度" data-name="透明度">
+          <g id="_图层_36_图像" data-name="图层 36 图像">
+            <image id="_图层_36_图像-2" data-name="图层 36 图像" width="728" height="20" transform="translate(274 965)" xlink:href="005-无样式-6.png"/>
+          </g>
+          <g id="_按钮禁用_2_拷贝" data-name="按钮禁用 2 拷贝">
+            <path d="M975,969H301c-19,0-23,2-23,6s4,6,23,6h674c19,0,23-2,23-6s-4-6-23-6Z" style="fill: #7f7f7f; fill-rule: evenodd;"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="_原版窒息气泡_图像" data-name="原版窒息气泡 图像">
+      <image id="_原版窒息气泡_图像-2" data-name="原版窒息气泡 图像" width="36" height="36" transform="translate(354 775)" xlink:href="005-无样式-7.png"/>
+    </g>
+    <g id="_原版马匹跳跃条_图像" data-name="原版马匹跳跃条 图像">
+      <image id="_原版马匹跳跃条_图像-2" data-name="原版马匹跳跃条 图像" width="728" height="20" transform="translate(274 941)" xlink:href="005-无样式-8.png"/>
+    </g>
+    <g id="_原版饱食度_图像" data-name="原版饱食度 图像">
+      <image id="_原版饱食度_图像-2" data-name="原版饱食度 图像" width="36" height="36" transform="translate(314 775)" xlink:href="005-无样式-9.png"/>
+    </g>
+    <g id="_经验_有_位图_" data-name="经验 有 （位图）">
+      <g id="_按钮禁用_0_拷贝" data-name="按钮禁用 0 拷贝">
+        <path d="M974,815H302c-22,0-28,2.14-28,10s6,10,28,10h672c22,0,28-2.14,28-10s-6-10-28-10Z" style="fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮禁用_2_拷贝_2_图像" data-name="按钮禁用 2 拷贝 2 图像">
+        <image id="_按钮禁用_2_拷贝_2_图像-2" data-name="按钮禁用 2 拷贝 2 图像" width="720" height="12" transform="translate(278 819)" xlink:href="005-无样式-10.png"/>
+      </g>
+    </g>
+    <g id="_图标_需要描边_" data-name="图标 （需要描边）">
+      <g id="_其他位图图标" data-name="其他位图图标">
+        <g id="_蛋糕_图像" data-name="蛋糕 图像">
+          <image id="_蛋糕_图像-2" data-name="蛋糕 图像" width="28" height="25" transform="translate(318 781)" xlink:href="005-无样式-11.png"/>
+        </g>
+        <g id="_蔬菜_图像" data-name="蔬菜 图像">
+          <image id="_蔬菜_图像-2" data-name="蔬菜 图像" width="28" height="25" transform="translate(358 781)" xlink:href="005-无样式-12.png"/>
+        </g>
+        <g id="_原版护甲_图像" data-name="原版护甲 图像">
+          <image id="_原版护甲_图像-2" data-name="原版护甲 图像" width="36" height="36" transform="translate(50 52)" xlink:href="005-无样式-13.png"/>
+        </g>
+        <g id="_护甲_图像" data-name="护甲 图像">
+          <image id="_护甲_图像-2" data-name="护甲 图像" width="28" height="25" transform="translate(398 781)" xlink:href="005-无样式-14.png"/>
+        </g>
+        <g id="_鞘翅_图像" data-name="鞘翅 图像">
+          <image id="_鞘翅_图像-2" data-name="鞘翅 图像" width="28" height="26" transform="translate(437 781)" xlink:href="005-无样式-15.png"/>
+        </g>
+        <g id="_气泡_B_图像" data-name="气泡 B 图像">
+          <image id="_气泡_B_图像-2" data-name="气泡 B 图像" width="28" height="27" transform="translate(477 780)" xlink:href="005-无样式-16.png"/>
+        </g>
+        <g id="_气泡_A_图像" data-name="气泡 A 图像">
+          <image id="_气泡_A_图像-2" data-name="气泡 A 图像" width="28" height="27" transform="translate(517 781)" xlink:href="005-无样式-17.png"/>
+        </g>
+        <g id="_一片蛋糕_图像" data-name="一片蛋糕 图像">
+          <image id="_一片蛋糕_图像-2" data-name="一片蛋糕 图像" width="28" height="26" transform="translate(557 782)" xlink:href="005-无样式-18.png"/>
+        </g>
+        <g id="_汉堡_图像" data-name="汉堡 图像">
+          <image id="_汉堡_图像-2" data-name="汉堡 图像" width="28" height="24" transform="translate(597 783)" xlink:href="005-无样式-19.png"/>
+        </g>
+        <g id="_一块蛋糕_图像" data-name="一块蛋糕 图像">
+          <image id="_一块蛋糕_图像-2" data-name="一块蛋糕 图像" width="28" height="25" transform="translate(637 783)" xlink:href="005-无样式-20.png"/>
+        </g>
+      </g>
+      <g id="_血量" data-name="血量">
+        <g id="_渐变填充_1_图像" data-name="渐变填充 1 图像">
+          <image id="_渐变填充_1_图像-2" data-name="渐变填充 1 图像" width="28" height="25" transform="translate(278 782)" xlink:href="005-无样式-21.png"/>
+        </g>
+      </g>
+      <g id="_血量_极限模式" data-name="血量 极限模式">
+        <g id="_渐变填充_1_图像-3" data-name="渐变填充 1 图像">
+          <image id="_渐变填充_1_图像-4" data-name="渐变填充 1 图像" width="28" height="25" transform="translate(278 782)" xlink:href="005-无样式-22.png"/>
+        </g>
+        <g id="_渐变填充_2_图像" data-name="渐变填充 2 图像">
+          <image id="_渐变填充_2_图像-2" data-name="渐变填充 2 图像" width="20" height="14" transform="translate(282 786)" xlink:href="005-无样式-23.png"/>
+        </g>
+      </g>
+    </g>
+    <g id="_马匹血量" data-name="马匹血量">
+      <g id="_矩形_6_图像" data-name="矩形 6 图像">
+        <image id="_矩形_6_图像-2" data-name="矩形 6 图像" width="28" height="26" transform="translate(677 781)" xlink:href="005-无样式-24.png"/>
+      </g>
+    </g>
+    <g id="_刀_图像" data-name="刀 图像">
+      <image id="_刀_图像-2" data-name="刀 图像" width="64" height="16" transform="translate(276 745)" xlink:href="005-无样式-25.png"/>
+    </g>
+    <g id="_一个跟刀差不多大的灰条" data-name="一个跟刀差不多大的灰条">
+      <path d="M326,749h-36c-8,0-14,0-14,4s6,4,14,4h36c8,0,14,0,14-4s-6-4-14-4Z" style="fill: #404040; fill-rule: evenodd;"/>
+    </g>
+    <g id="_攻击冷却" data-name="攻击冷却">
+      <g id="_刀_位图_图像" data-name="刀（位图） 图像">
+        <image id="_刀_位图_图像-2" data-name="刀（位图） 图像" width="64" height="28" transform="translate(356 725)" xlink:href="005-无样式-26.png"/>
+      </g>
+      <g id="_一个跟刀差不多大的白条" data-name="一个跟刀差不多大的白条">
+        <path d="M406,729h-36c-8,0-14,0-14,4s6,4,14,4h36c8,0,14,0,14-4s-6-4-14-4Z" style="fill: #fff; fill-rule: evenodd;"/>
+      </g>
+      <g id="_三角形_1_需要外描边_限制在_一个跟刀差不多大的白条_范围内_" data-name="三角形 1 （需要外描边）（限制在“一个跟刀差不多大的白条”范围内）">
+        <polygon points="388 728.84 376.69 748.22 399.31 748.22 388 728.84" style="fill-rule: evenodd;"/>
+      </g>
+      <g id="_三角形_1_需要外描边_" data-name="三角形 1 （需要外描边）">
+        <polygon points="388 728.84 376.69 748.22 399.31 748.22 388 728.84" style="fill: #fff; fill-rule: evenodd;"/>
+      </g>
+    </g>
+    <g id="_好像是追踪条上的圆" data-name="好像是追踪条上的圆">
+      <path d="M757,817.01c-4.42,0-8,3.58-8,8s3.58,8,8,8,8-3.58,8-8-3.58-8-8-8Z" style="fill: none; stroke: #000; stroke-miterlimit: 100; stroke-width: 4px;"/>
+    </g>
+    <g id="_号_位图_图像" data-name="+号（位图） 图像">
+      <image id="_号_位图_图像-2" data-name="+号（位图） 图像" width="60" height="60" transform="translate(643 703)" xlink:href="005-无样式-27.png"/>
+    </g>
+  </g>
+  <g id="_其他" data-name="其他">
+    <g id="_不知道有什么用的小红点" data-name="不知道有什么用的小红点">
+      <g id="_形状_4_图像" data-name="形状 4 图像">
+        <image id="_形状_4_图像-2" data-name="形状 4 图像" width="36" height="36" transform="translate(441 727)" xlink:href="005-无样式-28.png"/>
+      </g>
+      <g id="_5" data-name="5">
+        <text transform="translate(453.75 753.36)" style="fill: #fff; font-family: MiSans-Heavy, &apos;MiSans Heavy&apos;; font-size: 21px; font-weight: 800;"><tspan x="0" y="0">5</tspan></text>
+      </g>
+    </g>
+    <g id="_组_6" data-name="组 6">
+      <g id="_的黑色背景_图像" data-name="√的黑色背景 图像">
+        <image id="_的黑色背景_图像-2" data-name="√的黑色背景 图像" width="64" height="64" transform="translate(487 701)" xlink:href="005-无样式-29.png"/>
+      </g>
+      <g id="_绿_图像" data-name="绿√ 图像">
+        <image id="_绿_图像-2" data-name="绿√ 图像" width="69" height="69" transform="translate(485 698)" xlink:href="005-无样式-30.png"/>
+      </g>
+      <g id="_的黑色背景_图像-3" data-name="×的黑色背景 图像">
+        <image id="_的黑色背景_图像-4" data-name="×的黑色背景 图像" width="64" height="64" transform="translate(555 701)" xlink:href="005-无样式-31.png"/>
+      </g>
+      <g id="_红_图像" data-name="红× 图像">
+        <image id="_红_图像-2" data-name="红× 图像" width="69" height="68" transform="translate(552 699)" xlink:href="005-无样式-32.png"/>
+      </g>
+    </g>
+  </g>
+  <g id="_界面模板" data-name="界面模板">
+    <g id="_界面模板_0" data-name="界面模板 0">
+      <path d="M694,442h-108c-34,0-42,8-42,42v204c0,34,8,42,42,42h108c34,0,42-8,42-42v-204c0-34-8-42-42-42Z" style="fill-rule: evenodd;"/>
+    </g>
+    <g id="_界面模板_1" data-name="界面模板 1">
+      <path d="M548,666v24c0,28.5,7.5,36,36,36h112c28.5,0,36-7.5,36-36v-24h-184Z" style="fill: #7f8083; fill-rule: evenodd;"/>
+    </g>
+    <g id="_界面模板_2" data-name="界面模板 2">
+      <path d="M696,446h-112c-28.5,0-36,7.5-36,36v200c0,28.5,7.5,36,36,36h112c28.5,0,36-7.5,36-36v-200c0-28.5-7.5-36-36-36Z" style="fill: #bbbcbf; fill-rule: evenodd;"/>
+    </g>
+    <g id="_2_2物品槽_外框" data-name="2*2物品槽 外框">
+      <!-- 外路径：渐变填充（外框区域） -->
+      <path d="M688.06,554h-96.11c-12.05,0-19.08.21-23.41,4.56-4.33,4.34-4.54,11.38-4.54,23.44v92c0,12.07.21,19.12,4.55,23.45,4.34,4.34,11.38,4.55,23.45,4.55h96c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-92c0-12.07-.21-19.11-4.53-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_未命名的渐变_4000);"/>
+      <!-- 内路径：纹理平铺填充 -->
+      <path d="M688.06,558c22.95,0,23.94,1.02,23.94,24v92c0,23-1,24-24,24h-96c-23,0-24-1-24-24v-92c0-22.98,1-24,23.94-24h96.11" style="fill: url(#界面模板_2_2物品槽_外框_纹理);"/>
+    </g>
+    <g id="_界面模板_6_图像" data-name="界面模板 6 图像">
+      <g>
+        <path d="M668,474h16c22.1,0,23.1.1,24,24v16c-.9,22.1-1.9,23.1-24,24h-16c-23.9-.9-24-1.9-24-24v-16c0-23.9.1-24,24-24Z" style="fill: url(#_未命名的渐变_3989); fill-rule: evenodd;"/>
+        <path d="M684.39,474c21.73,0,22.72.24,23.61,24v16c-.9,22.1-1.9,23.1-24,24h-16c-23.9-.9-24-1.9-24-24v-16c0-23.76.1-24,23.58-24h16.81M684.39,470h-16.81c-12.42,0-19.26,0-23.46,4.29-4.12,4.22-4.12,10.73-4.12,23.71v16c0,11.87,0,18.41,4.16,22.72,4.19,4.34,11,4.79,23.69,5.27h.08s.08,0,.08,0h16.16c11.58-.48,18.34-.95,22.62-5.22,4.27-4.27,4.75-11.03,5.22-22.61v-.08s0-.08,0-.08v-16.15c-.48-12.63-.92-19.41-5.19-23.61-4.3-4.24-11.12-4.24-22.42-4.24h0Z" style="fill: url(#_未命名的渐变_3995);"/>
+      </g>
+    </g>
+    <g id="_合成箭头_0_图像" data-name="合成箭头 0 图像">
+      <image id="_合成箭头_0_图像-2" data-name="合成箭头 0 图像" width="47" height="32" transform="translate(572 492)" xlink:href="005-无样式-33.png"/>
+    </g>
+    <g id="_合成箭头_1_图像" data-name="合成箭头 1 图像">
+      <image id="_合成箭头_1_图像-2" data-name="合成箭头 1 图像" width="47" height="32" transform="translate(572 488)" xlink:href="005-无样式-34.png"/>
+    </g>
+  </g>
+  <g id="_界面模板_通用背包" data-name="界面模板 通用背包">
+    <g id="_界面_0" data-name="界面 0">
+      <path d="M1398,811h-612c-34,0-42,8-42,42v272c0,34,8,42,42,42h612c34,0,42-8,42-42v-272c0-34-8-42-42-42Z" style="fill-rule: evenodd;"/>
+    </g>
+    <g id="_界面_1" data-name="界面 1">
+      <path d="M748,1103v24c0,28.5,7.5,36,36,36h616c28.5,0,36-7.5,36-36v-24h-688Z" style="fill: #7f8083; fill-rule: evenodd;"/>
+    </g>
+    <g id="_界面_2" data-name="界面 2">
+      <path d="M1400,815h-616c-28.5,0-36,7.5-36,36v268c0,28.5,7.5,36,36,36h616c28.5,0,36-7.5,36-36v-268c0-28.5-7.5-36-36-36Z" style="fill: #bbbcbf; fill-rule: evenodd;"/>
+    </g>
+    <g id="_物品栏外框" data-name="物品栏外框">
+      <!-- 外路径：渐变填充 -->
+      <path d="M1392.06,1063h-600.11c-12.05,0-19.08.21-23.41,4.56-4.33,4.34-4.54,11.38-4.54,23.44v20c0,12.07.21,19.12,4.55,23.45,4.34,4.34,11.38,4.55,23.45,4.55h600c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-20c0-12.07-.21-19.11-4.53-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_未命名的渐变_4003);"/>
+      <!-- 内路径：纹理平铺填充 -->
+      <path d="M1392.06,1067c22.95,0,23.94,1.02,23.94,24v20c0,23-1,24-24,24h-600c-23,0-24-1-24-24v-20c0-22.98,1-24,23.94-24,.02,0,.04,0,.06,0h600.06Z" style="fill: url(#界面模板_通用背包_物品栏外框_纹理);"/>
+    </g>
+    <g id="_背包外框" data-name="背包外框">
+      <!-- 外路径：渐变填充 -->
+      <path d="M1392.06,831h-600.11c-12.05,0-19.08.21-23.41,4.56-4.32,4.34-4.53,11.38-4.53,23.44v164c0,12.07.21,19.12,4.55,23.45,4.34,4.34,11.38,4.55,23.45,4.55h600c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-164c0-12.07-.21-19.1-4.54-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_未命名的渐变_4006);"/>
+      <!-- 内路径：纹理平铺填充 -->
+      <path d="M1392.06,835c22.94,0,23.94,1.02,23.94,24v164c0,23-1,24-24,24h-600c-23,0-24-1-24-24v-164c0-22.98,1-24,23.94-24h600.11Z" style="fill: url(#界面模板_通用背包_背包外框_纹理);"/>
+    </g>
+  </g>
+  <g id="_背包" data-name="背包">
+    <g id="_物品栏-3" data-name="物品栏">
+      <g id="_界面_0-2" data-name="界面 0">
+        <path d="M1398,147h-612c-34,0-42,8-42,42v576c0,34,8,42,42,42h612c34,0,42-8,42-42V189c0-34-8-42-42-42Z" style="fill-rule: evenodd;"/>
+      </g>
+      <g id="_界面_1-2" data-name="界面 1">
+        <path d="M748,743v24c0,28.5,7.5,36,36,36h616c28.5,0,36-7.5,36-36v-24h-688Z" style="fill: #7f8083; fill-rule: evenodd;"/>
+      </g>
+      <g id="_界面_2-2" data-name="界面 2">
+        <path d="M1400,151h-616c-28.5,0-36,7.5-36,36v572c0,28.5,7.5,36,36,36h616c28.5,0,36-7.5,36-36V187c0-28.5-7.5-36-36-36Z" style="fill: #bbbcbf; fill-rule: evenodd;"/>
+      </g>
+      <g id="_物品栏外框-2" data-name="物品栏外框">
+        <!-- 外路径：渐变填充 -->
+        <path d="M1392.06,703h-600.11c-12.05,0-19.08.21-23.41,4.56-4.33,4.34-4.54,11.38-4.54,23.44v20c0,12.07.21,19.12,4.55,23.45,4.34,4.34,11.38,4.55,23.45,4.55h600c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-20c0-12.07-.21-19.11-4.53-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_未命名的渐变_4009);"/>
+        <!-- 内路径：纹理平铺填充 -->
+        <path d="M1392.06,707c22.95,0,23.94,1.02,23.94,24v20c0,23-1,24-24,24h-600c-23,0-24-1-24-24v-20c0-22.98,1-24,23.94-24h600.11Z" style="fill: url(#背包_物品栏外框_纹理);"/>
+      </g>
+      <g id="_背包外框-2" data-name="背包外框">
+        <!-- 外路径：渐变填充 -->
+        <path d="M1392.06,471h-600.11c-12.05,0-19.08.21-23.41,4.56-4.32,4.34-4.53,11.38-4.53,23.44v164c0,12.07.21,19.12,4.55,23.45,4.34,4.34,11.38,4.55,23.45,4.55h600c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-164c0-12.07-.21-19.1-4.54-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_未命名的渐变_4012);"/>
+        <!-- 内路径：纹理平铺填充 -->
+        <path d="M1392.06,475c22.94,0,23.94,1.02,23.94,24v164c0,23-1,24-24,24h-600c-23,0-24-1-24-24v-164c0-22.98,1-24,23.94-24h600.11Z" style="fill: url(#背包_背包外框_纹理);"/>
+      </g>
+    </g>
+    <g id="_装备栏_人物模型_副手槽_2_2合成台" data-name="装备栏 人物模型 副手槽 2*2合成台">
+      <g id="_人物模型_黑色背景" data-name="人物模型 黑色背景">
+        <path d="M868,171h148c22.1,0,23.1.1,24,24v236c-.9,22.1-1.9,23.1-24,24h-148c-23.9-.9-24-1.9-24-24v-236c0-23.9.1-24,24-24Z" style="fill: url(#_未命名的渐变_3924); fill-rule: evenodd;"/>
+      </g>
+      <g id="_人物模型_伪空间底部面" data-name="人物模型 伪空间底部面">
+        <path d="M1011.58,397.38c-4.71-4.7-9.72-5.71-26.7-5.71h-85.9c-16.98,0-21.99,1.01-26.7,5.71l-28.28,28.21v5.41c0,22.1.1,23.1,24,24h148c22.1-.9,23.1-1.9,24-24v-5.27l-28.42-28.36Z" style="fill: #28292c; fill-rule: evenodd;"/>
+      </g>
+      <g id="_副手槽_人物模型_装备槽" data-name="副手槽 人物模型 装备槽">
+        <!-- 副手槽外路径：统一渐变 -->
+        <path d="M1092.05,383h-24.11c-12.05,0-19.08.21-23.41,4.56-4.32,4.34-4.53,11.38-4.53,23.44v20c0,12.07.21,19.12,4.55,23.45,4.34,4.34,11.38,4.55,23.45,4.55h24c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-20c0-12.07-.21-19.11-4.54-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_未命名的渐变_3947);"/>
+        <!-- 副手槽内路径：纹理平铺填充 -->
+        <path d="M1092.05,387c22.95,0,23.95,1.02,23.95,24v20c0,23-1,24-24,24h-24c-23,0-24-1-24-24v-20c0-22.98.99-24,23.95-24h24.11Z" style="fill: url(#副手槽_人物模型_装备槽_副手槽_纹理);"/>
+        <!-- 装备槽·左外路径：统一渐变 -->
+        <path d="M816.06,167h-24.12c-12.05,0-19.07.21-23.41,4.56-4.32,4.34-4.53,11.38-4.53,23.44v236c0,12.07.21,19.12,4.55,23.45,4.34,4.34,11.38,4.55,23.45,4.55h24c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-236c0-12.07-.21-19.1-4.54-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_未命名的渐变_3947);"/>
+        <!-- 装备槽·左内路径：纹理平铺填充 -->
+        <path d="M816.06,171c22.94,0,23.94,1.02,23.94,24v236c0,23-1,24-24,24h-24c-23,0-24-1-24-24v-236c0-22.98,1-24,23.94-24h24.12Z" style="fill: url(#副手槽_人物模型_装备槽_装备槽_左_纹理);"/>
+        <path fill-rule="evenodd" d="M1016.37,167h-148.78c-12.43,0-19.28,0-23.47,4.29-4.13,4.22-4.13,10.73-4.13,23.71v236c0,11.87,0,18.41,4.16,22.72,4.19,4.34,11,4.79,23.69,5.27h.08s.08,0,.08,0h148.16c11.58-.48,18.34-.95,22.62-5.22,4.27-4.27,4.75-11.03,5.22-22.61v-.08s0-.08,0-.08v-236.15c-.48-12.63-.93-19.41-5.19-23.61-4.3-4.24-11.13-4.24-22.44-4.24h0ZM1016.37,171c21.74,0,22.73.23,23.63,24v236c-.9,22.1-1.9,23.1-24,24h-148c-23.9-.9-24-1.9-24-24v-236c0-23.77.1-24,23.6-24h148.78Z" style="fill: url(#_未命名的渐变_3947);"/>
+      </g>
+      <g id="_合成箭头_阴影_位图_图像" data-name="合成箭头 阴影（位图） 图像">
+        <image id="_合成箭头_阴影_位图_图像-2" data-name="合成箭头 阴影（位图） 图像" width="47" height="32" transform="translate(1288 272)" xlink:href="005-无样式-35.png"/>
+      </g>
+      <g id="_合成箭头_位图_图像" data-name="合成箭头 （位图） 图像">
+        <image id="_合成箭头_位图_图像-2" data-name="合成箭头 （位图） 图像" width="47" height="32" transform="translate(1288 268)" xlink:href="005-无样式-36.png"/>
+      </g>
+      <g id="_2_2合成台输出_外框" data-name="2*2合成台输出 外框">
+        <!-- 外路径：渐变填充 -->
+        <path d="M1403.55,247h-32.02c-9.74,0-15.65.66-19.03,4.16-3.38,3.5-4.05,9.93-4.05,19.84v28c0,10.57,1.1,15.67,4.05,18.82,3.03,3.24,8.34,4.69,18.96,5.17h.09s.09,0,.09,0h32c9.89-.45,15.61-1.37,19.38-5.12,3.83-3.82,4.53-9.35,4.53-18.88v-28c0-11.28-1.22-16.66-4.5-19.84-3.6-3.48-9.87-4.16-19.5-4.16h0Z" style="fill: url(#_新建渐变色板_13);"/>
+        <!-- 内路径：纹理平铺填充 -->
+        <path d="M1403.55,251c8.16,0,14.12.52,16.72,3.04,2.33,2.26,3.28,7.17,3.28,16.96v28c0,16.92-2.25,19.19-20.09,20h-31.82c-9.32-.43-14.02-1.56-16.22-3.91-2.14-2.28-2.97-6.8-2.97-16.09v-28c0-8.42.5-14.54,2.92-17.06,2.07-2.15,6.45-2.94,16.16-2.94h32.02Z" style="fill: url(#2_2合成台输出_外框_纹理);"/>
+      </g>
+      <g id="_2_2合成台输出_外框_复制" data-name="2*2合成台输入">
+        <!-- 外路径：渐变填充 -->
+        <path d="M1248.06,207h-96.12c-12.05,0-19.07.21-23.41,4.56-4.32,4.34-4.53,11.38-4.53,23.44v92c0,12.07.21,19.12,4.55,23.45s11.38,4.55,23.45,4.55h96c12.08,0,19.12-.21,23.45-4.55,4.34-4.34,4.55-11.38,4.55-23.45v-92c0-12.07-.21-19.11-4.53-23.44-4.33-4.35-11.36-4.56-23.41-4.56h0Z" style="fill: url(#_新建渐变色板_13-2);"/>
+        <!-- 内路径：纹理平铺填充 -->
+        <path d="M1248.06,211c22.95,0,23.94,1.02,23.94,24v92c0,23-1,24-24,24h-96c-23,0-24-1-24-24v-92c0-22.98,1-24,23.94-24h96.12Z" style="fill: url(#2_2合成台输入_纹理);"/>
+      </g>
+      <g id="_物品栏纹理" data-name="物品栏纹理">
+        <rect x="72" width="72" height="68" style="fill: url(#_新建渐变色板_12);"/>
+        <rect y="72" width="72" height="68" style="fill: url(#_未命名的渐变_765);"/>
+        <rect width="72" height="68" style="fill: url(#_新建渐变色板_11);"/>
+        <rect x="72" y="72" width="72" height="68" style="fill: url(#_未命名的渐变_812);"/>
+        <rect y="68" width="144" height="4" style="fill: #a1a2a5;"/>
+        <rect y="140" width="144" height="4" style="fill: #a1a2a5;"/>
+      </g>
+    </g>
+  </g>
+  <g id="_药水效果" data-name="药水效果">
+    <g id="_底部" data-name="底部">
+      <path d="M504,439h-32c-22,0-28,6-28,28v32c0,22,6,28,28,28h32c22,0,28-6,28-28v-32c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+    </g>
+    <g id="_本体" data-name="本体">
+      <g>
+        <rect x="448" y="443" width="80" height="80" rx="24" ry="24" style="fill: url(#_未命名的渐变_288);"/>
+        <path d="M504,447c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v32c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-32c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-32c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h32M504,443h-32c-19,0-24,5-24,24v32c0,19,5,24,24,24h32c19,0,24-5,24-24v-32c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_567);"/>
+      </g>
+    </g>
+    <g id="_选中-2" data-name="选中">
+      <g>
+        <rect x="448" y="443" width="80" height="80" rx="24" ry="24" style="fill: url(#_未命名的渐变_705);"/>
+        <path d="M504,447c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v32c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-32c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-32c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h32M504,443h-32c-19,0-24,5-24,24v32c0,19,5,24,24,24h32c19,0,24-5,24-24v-32c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_709);"/>
+      </g>
+    </g>
+  </g>
+  <g id="_小地图_B" data-name="小地图 B">
+    <g style="opacity: .75;">
+      <path d="M431,275c28.6,0,34,5.4,34,34v236c0,28.6-5.4,34-34,34h-236c-28.6,0-34-5.4-34-34v-236c0-28.6,5.4-34,34-34h236M431,271h-236c-30.9,0-38,7.1-38,38v236c0,30.9,7.1,38,38,38h236c30.9,0,38-7.1,38-38v-236c0-30.9-7.1-38-38-38h0Z" style="fill: #c3c0bf;"/>
+    </g>
+    <path d="M431,271c16.19,0,25.32,2.23,30.55,7.45,5.22,5.22,7.45,14.36,7.45,30.55v236c0,16.19-2.23,25.32-7.45,30.55-5.22,5.22-14.36,7.45-30.55,7.45h-236c-16.19,0-25.32-2.23-30.55-7.45-5.22-5.22-7.45-14.36-7.45-30.55v-236c0-16.19,2.23-25.32,7.45-30.55,5.22-5.22,14.36-7.45,30.55-7.45h236M431,267h-236c-33,0-42,9-42,42v236c0,33,9,42,42,42h236c33,0,42-9,42-42v-236c0-33-9-42-42-42h0Z"/>
+    <path d="M431,283c14.98,0,20.26,2.14,22.06,3.94,1.8,1.8,3.94,7.08,3.94,22.06v236c0,14.98-2.14,20.26-3.94,22.06-1.8,1.8-7.08,3.94-22.06,3.94h-236c-14.98,0-20.26-2.14-22.06-3.94-1.8-1.8-3.94-7.08-3.94-22.06v-236c0-14.98,2.14-20.26,3.94-22.06,1.8-1.8,7.08-3.94,22.06-3.94h236M431,279h-236c-13.49,0-21.4,1.62-24.89,5.11-3.49,3.49-5.11,11.4-5.11,24.89v236c0,13.49,1.62,21.4,5.11,24.89,3.49,3.49,11.4,5.11,24.89,5.11h236c13.49,0,21.4-1.62,24.89-5.11,3.49-3.49,5.11-11.4,5.11-24.89v-236c0-13.49-1.62-21.4-5.11-24.89-3.49-3.49-11.4-5.11-24.89-5.11h0Z"/>
+    <g style="opacity: .75;">
+      <path d="M431,279c13.49,0,21.4,1.62,24.89,5.11,3.49,3.49,5.11,11.4,5.11,24.89v236c0,13.49-1.62,21.4-5.11,24.89-3.49,3.49-11.4,5.11-24.89,5.11h-236c-13.49,0-21.4-1.62-24.89-5.11-3.49-3.49-5.11-11.4-5.11-24.89v-236c0-13.49,1.62-21.4,5.11-24.89,3.49-3.49,11.4-5.11,24.89-5.11h236M431,275h-236c-14.83,0-23.37,1.94-27.72,6.28-4.34,4.34-6.28,12.89-6.28,27.72v236c0,14.83,1.94,23.37,6.28,27.72,4.34,4.34,12.89,6.28,27.72,6.28h236c14.83,0,23.37-1.94,27.72-6.28,4.34-4.34,6.28-12.89,6.28-27.72v-236c0-14.83-1.94-23.37-6.28-27.72-4.34-4.34-12.89-6.28-27.72-6.28h0Z" style="fill: #a4a1a0;"/>
+    </g>
+  </g>
+  <g id="_小地图_A" data-name="小地图 A">
+    <g style="opacity: .75;">
+      <path d="M431,279c13.92,0,21.38,1.52,24.93,5.07,3.55,3.55,5.07,11.01,5.07,24.93v236c0,13.92-1.52,21.38-5.07,24.93-3.55,3.55-11.01,5.07-24.93,5.07h-236c-13.92,0-21.38-1.52-24.93-5.07-3.55-3.55-5.07-11.01-5.07-24.93v-236c0-13.92,1.52-21.38,5.07-24.93,3.55-3.55,11.01-5.07,24.93-5.07h236M431,271h-236c-30.9,0-38,7.1-38,38v236c0,30.9,7.1,38,38,38h236c30.9,0,38-7.1,38-38v-236c0-30.9-7.1-38-38-38h0Z" style="fill: #c3c0bf;"/>
+    </g>
+    <path d="M431,271c16.19,0,25.32,2.23,30.55,7.45,5.22,5.22,7.45,14.36,7.45,30.55v236c0,16.19-2.23,25.32-7.45,30.55-5.22,5.22-14.36,7.45-30.55,7.45h-236c-16.19,0-25.32-2.23-30.55-7.45-5.22-5.22-7.45-14.36-7.45-30.55v-236c0-16.19,2.23-25.32,7.45-30.55,5.22-5.22,14.36-7.45,30.55-7.45h236M431,267h-236c-33,0-42,9-42,42v236c0,33,9,42,42,42h236c33,0,42-9,42-42v-236c0-33-9-42-42-42h0Z" style="fill: #fff;"/>
+    <path d="M431,283c14.98,0,20.26,2.14,22.06,3.94,1.8,1.8,3.94,7.08,3.94,22.06v236c0,14.98-2.14,20.26-3.94,22.06-1.8,1.8-7.08,3.94-22.06,3.94h-236c-14.98,0-20.26-2.14-22.06-3.94-1.8-1.8-3.94-7.08-3.94-22.06v-236c0-14.98,2.14-20.26,3.94-22.06,1.8-1.8,7.08-3.94,22.06-3.94h236M431,279h-236c-13.49,0-21.4,1.62-24.89,5.11-3.49,3.49-5.11,11.4-5.11,24.89v236c0,13.49,1.62,21.4,5.11,24.89,3.49,3.49,11.4,5.11,24.89,5.11h236c13.49,0,21.4-1.62,24.89-5.11,3.49-3.49,5.11-11.4,5.11-24.89v-236c0-13.49-1.62-21.4-5.11-24.89-3.49-3.49-11.4-5.11-24.89-5.11h0Z" style="fill: #fff;"/>
+  </g>
+  <g id="_文本框" data-name="文本框">
+    <g id="_框底部" data-name="框底部">
+      <path d="M408,206h-44c-22,0-28,6-28,28v24c0,22,6,28,28,28h44c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+    </g>
+    <g id="_框本体" data-name="框本体">
+      <g>
+        <rect x="340" y="210" width="92" height="72" rx="24" ry="24" style="fill: url(#_未命名的渐变_475);"/>
+        <path d="M408,214c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v24c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-44c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-24c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h44M408,210h-44c-19,0-24,5-24,24v24c0,19,5,24,24,24h44c19,0,24-5,24-24v-24c0-19-5-24-24-24h0Z" style="fill: url(#_新建渐变色板_8);"/>
+      </g>
+    </g>
+    <g id="_框本体_选中_" data-name="框本体（选中）">
+      <g>
+        <rect x="340" y="210" width="92" height="72" rx="24" ry="24" style="fill: url(#_未命名的渐变_475-2);"/>
+        <path d="M408,214c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v24c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-44c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-24c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h44M408,210h-44c-19,0-24,5-24,24v24c0,19,5,24,24,24h44c19,0,24-5,24-24v-24c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_562);"/>
+      </g>
+    </g>
+  </g>
+  <g id="_勾选框" data-name="勾选框">
+    <g id="_框底部-2" data-name="框底部">
+      <path d="M370,511h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+    </g>
+    <g id="_框本体-2" data-name="框本体">
+      <g>
+        <rect x="322" y="515" width="72" height="72" rx="24" ry="24" style="fill: url(#_未命名的渐变_475-3);"/>
+        <path d="M370,519c8.83,0,13.7,1.11,16.3,3.7s3.7,7.47,3.7,16.3v24c0,8.83-1.11,13.7-3.7,16.3s-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7s-3.7-7.47-3.7-16.3v-24c0-8.83,1.11-13.7,3.7-16.3s7.47-3.7,16.3-3.7h24M370,515h-24c-19,0-24,5-24,24v24c0,19,5,24,24,24h24c19,0,24-5,24-24v-24c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_477);"/>
+      </g>
+    </g>
+    <g id="_框本体_绿色_" data-name="框本体（绿色）">
+      <g>
+        <rect x="324" y="517" width="68" height="68" rx="22" ry="22" style="fill: #172d13;"/>
+        <path d="M370,519c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v24c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-24c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M370,515h-24c-19,0-24,5-24,24v24c0,19,5,24,24,24h24c19,0,24-5,24-24v-24c0-19-5-24-24-24h0Z" style="fill: #47c729;"/>
+      </g>
+    </g>
+    <g id="_框本体_选中_-2" data-name="框本体（选中）">
+      <g>
+        <rect x="322" y="515" width="72" height="72" rx="24" ry="24" style="fill: url(#_未命名的渐变_2);"/>
+        <path d="M370,519c8.83,0,13.7,1.11,16.3,3.7s3.7,7.47,3.7,16.3v24c0,8.83-1.11,13.7-3.7,16.3s-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-24c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M370,515h-24c-19,0-24,5-24,24v24c0,19,5,24,24,24h24c19,0,24-5,24-24v-24c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_441);"/>
+      </g>
+    </g>
+    <g id="_红色_" data-name="红色×">
+      <line x1="339.1" y1="570.31" x2="377.55" y2="531.99" style="fill: none; stroke: url(#_未命名的渐变_433); stroke-linecap: round; stroke-linejoin: round; stroke-width: 11px;"/>
+      <line x1="339.1" y1="531.99" x2="377.55" y2="570.31" style="fill: none; stroke: url(#_未命名的渐变_433); stroke-linecap: round; stroke-linejoin: round; stroke-width: 11px;"/>
+    </g>
+    <g id="_绿色_" data-name="绿色√">
+      <polyline points="339.7 555.28 355.73 569.49 376.8 532.12" style="fill: none; stroke: url(#_未命名的渐变_385); stroke-linecap: round; stroke-linejoin: round; stroke-width: 11px;"/>
+    </g>
+  </g>
+  <g id="_滑块" data-name="滑块">
+    <g id="_滑块-2" data-name="滑块">
+      <g id="_滑块导轨" data-name="滑块导轨">
+        <g>
+          <path d="M190,601c-7.38,0-10-1.51-10-10v-104c0-8.49,2.62-10,10-10,9.26,0,10,1.51,10,10v104c0,8.49-.74,10-10,10Z" style="fill: #2c2928; fill-rule: evenodd;"/>
+          <path d="M190,479c3.9,0,6.25.39,6.98,1.17,1.02,1.08,1.02,5.26,1.02,6.83v104c0,1.57,0,5.74-1.02,6.83-.73.78-3.08,1.17-6.98,1.17-3.4,0-5.52-.44-6.48-1.35-1.01-.95-1.52-3.19-1.52-6.65v-104c0-3.46.51-5.7,1.52-6.65.96-.91,3.09-1.35,6.48-1.35M190,475c-8.6,0-12,2.5-12,12v104c0,9.5,3.4,12,12,12,10.4,0,12-2.5,12-12v-104c0-9.5-1.6-12-12-12h0Z" style="fill: #444140;"/>
+        </g>
+      </g>
+      <g id="_滑块-3" data-name="滑块">
+        <g>
+          <path d="M218,601c-7.38,0-10-1.51-10-10v-104c0-8.49,2.62-10,10-10,9.26,0,10,1.51,10,10v104c0,8.49-.74,10-10,10Z" style="fill: #83807f; fill-rule: evenodd;"/>
+          <path d="M218,479c3.9,0,6.25.39,6.98,1.17,1.02,1.08,1.02,5.26,1.02,6.83v104c0,1.57,0,5.74-1.02,6.83-.73.78-3.08,1.17-6.98,1.17-3.4,0-5.52-.44-6.48-1.35-1.01-.95-1.52-3.19-1.52-6.65v-104c0-3.46.51-5.7,1.52-6.65.96-.91,3.09-1.35,6.48-1.35M218,475c-8.6,0-12,2.5-12,12v104c0,9.5,3.4,12,12,12,10.4,0,12-2.5,12-12v-104c0-9.5-1.6-12-12-12h0Z" style="fill: #c3c0bf;"/>
+        </g>
+      </g>
+    </g>
+    <g id="_滑块导轨-2" data-name="滑块导轨">
+      <g id="_按钮禁用_0-5" data-name="按钮禁用 0">
+        <rect x="235" y="403" width="80" height="56" rx="21" ry="21"/>
+      </g>
+      <g id="_按钮禁用_2-2" data-name="按钮禁用 2">
+        <g>
+          <path d="M293,407h-35.1c-14.25,0-18.9,3.75-18.9,18v12c0,14.25,4.65,18,18.9,18h35.1c15.15,0,18-3.75,18-18v-12c0-14.25-2.85-18-18-18Z" style="fill: url(#_未命名的渐变_288-2); fill-rule: evenodd;"/>
+          <path d="M293,411c6.55,0,10.19.75,11.79,2.42,1.55,1.61,2.21,5.08,2.21,11.58v12c0,6.5-.66,9.96-2.21,11.58-1.61,1.68-5.24,2.42-11.79,2.42h-35.1c-12.39,0-14.9-2.36-14.9-14v-12c0-11.64,2.51-14,14.9-14h35.1M293,407h-35.1c-14.25,0-18.9,3.75-18.9,18v12c0,14.25,4.65,18,18.9,18h35.1c15.15,0,18-3.75,18-18v-12c0-14.25-2.85-18-18-18h0Z" style="fill: url(#_未命名的渐变_348);"/>
+        </g>
+      </g>
+    </g>
+    <g id="_滑块禁用" data-name="滑块禁用">
+      <g id="_按钮禁用_0-6" data-name="按钮禁用 0">
+        <rect x="174" y="391" width="32" height="80" rx="14" ry="14"/>
+      </g>
+      <g id="_按钮禁用_1" data-name="按钮禁用 1">
+        <path d="M202,427v28c0,9.5-1.6,12-12,12h0c-8.6,0-12-2.5-12-12v-28h24Z" style="fill: #343130; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮禁用_2-3" data-name="按钮禁用 2">
+        <g>
+          <path d="M190,395h0c-8.6,0-12,2.5-12,12v40c0,9.5,3.4,12,12,12h0c10.4,0,12-2.5,12-12v-40c0-9.5-1.6-12-12-12Z" style="fill: url(#_未命名的渐变_288-3); fill-rule: evenodd;"/>
+          <path d="M190,399c3.9,0,6.25.39,6.98,1.17,1.02,1.08,1.02,5.26,1.02,6.83v40c0,1.57,0,5.74-1.02,6.83-.73.78-3.08,1.17-6.98,1.17-3.4,0-5.52-.44-6.48-1.35-1.01-.95-1.52-3.19-1.52-6.65v-40c0-3.46.51-5.7,1.52-6.65.96-.91,3.09-1.35,6.48-1.35M190,395c-8.6,0-12,2.5-12,12v40c0,9.5,3.4,12,12,12,10.4,0,12-2.5,12-12v-40c0-9.5-1.6-12-12-12h0Z" style="fill: url(#_未命名的渐变_311);"/>
+        </g>
+      </g>
+    </g>
+    <g id="_滑块常态" data-name="滑块常态">
+      <g id="_按钮常态_0" data-name="按钮常态 0">
+        <rect x="259" y="390.99" width="32" height="80" rx="14" ry="14"/>
+      </g>
+      <g id="_按钮常态_1" data-name="按钮常态 1">
+        <path d="M287,427v28c0,9.5-2.6,12-13,12h2c-8.6,0-13-2.5-13-12v-28h24Z" style="fill: #5c5958; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮常态_2" data-name="按钮常态 2">
+        <g>
+          <path d="M275,395h0c-8.6,0-12,2.5-12,12v40c0,9.5,3.4,12,12,12h0c10.4,0,12-2.5,12-12v-40c0-9.5-1.6-12-12-12Z" style="fill: url(#_未命名的渐变_41); fill-rule: evenodd;"/>
+          <path d="M275,399c3.9,0,6.25.39,6.98,1.17,1.02,1.08,1.02,5.26,1.02,6.83v40c0,1.57,0,5.74-1.02,6.83-.73.78-3.08,1.17-6.98,1.17-3.4,0-5.52-.44-6.48-1.35-1.01-.95-1.52-3.19-1.52-6.65v-40c0-3.46.51-5.7,1.52-6.65.96-.91,3.09-1.35,6.48-1.35M275,395c-8.6,0-12,2.5-12,12v40c0,9.5,3.4,12,12,12,10.4,0,12-2.5,12-12v-40c0-9.5-1.6-12-12-12h0Z" style="fill: url(#_未命名的渐变_304);"/>
+        </g>
+      </g>
+    </g>
+    <g id="_滑块选中" data-name="滑块选中">
+      <g id="_按钮选中_0" data-name="按钮选中 0">
+        <rect x="343" y="391" width="32" height="80" rx="14" ry="14" style="fill: #fff;"/>
+      </g>
+      <g id="_按钮选中_1" data-name="按钮选中 1">
+        <path d="M347,427v28c0,9.5,2.5,12,12,12s12-2.5,12-12v-28h-24Z" style="fill: #5d53a4; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮选中_2" data-name="按钮选中 2">
+        <g>
+          <path d="M359,395h0c-8.6,0-12,2.5-12,12v40c0,9.5,3.4,12,12,12h0c10.4,0,12-2.5,12-12v-40c0-9.5-1.6-12-12-12Z" style="fill: url(#_未命名的渐变_2-2); fill-rule: evenodd;"/>
+          <path d="M359,399c3.9,0,6.25.39,6.98,1.17,1.02,1.08,1.02,5.26,1.02,6.83v40c0,1.57,0,5.74-1.02,6.83-.73.78-3.08,1.17-6.98,1.17-3.4,0-5.52-.44-6.48-1.35-1.01-.95-1.52-3.19-1.52-6.65v-40c0-3.46.51-5.7,1.52-6.65.96-.91,3.09-1.35,6.48-1.35M359,395c-8.6,0-12,2.5-12,12v40c0,9.5,3.4,12,12,12,10.4,0,12-2.5,12-12v-40c0-9.5-1.6-12-12-12h0Z" style="fill: url(#_未命名的渐变_297);"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="_按钮" data-name="按钮">
+    <g id="_按钮禁用" data-name="按钮禁用">
+      <g id="_按钮禁用_0-7" data-name="按钮禁用 0">
+        <path d="M226,307h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮禁用_1-2" data-name="按钮禁用 1">
+        <path d="M178,343v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16h-72Z" style="fill: #343130; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮禁用_2-4" data-name="按钮禁用 2">
+        <g>
+          <rect x="178" y="311" width="72" height="64" rx="24" ry="24" style="fill: url(#_未命名的渐变_288-4);"/>
+          <path d="M226,315c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v16c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-16c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M226,311h-24c-19,0-24,5-24,24v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_340);"/>
+        </g>
+      </g>
+    </g>
+    <g id="_按钮常态" data-name="按钮常态">
+      <g id="_按钮常态_0-2" data-name="按钮常态 0">
+        <path d="M311,307h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮常态_1-2" data-name="按钮常态 1">
+        <path d="M263,343v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16h-72Z" style="fill: #5c5958; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮常态_2-2" data-name="按钮常态 2">
+        <g>
+          <rect x="263" y="311" width="72" height="64" rx="24" ry="24" style="fill: url(#_未命名的渐变_41-2);"/>
+          <path d="M311,315c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v16c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-16c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M311,311h-24c-19,0-24,5-24,24v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_333);"/>
+        </g>
+      </g>
+    </g>
+    <g id="_按钮选中" data-name="按钮选中">
+      <g id="_按钮选中_0-2" data-name="按钮选中 0">
+        <path d="M395,307h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill: #fff; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮选中_1-2" data-name="按钮选中 1">
+        <path d="M347,343v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16h-72Z" style="fill: #5d53a4; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮选中_2-2" data-name="按钮选中 2">
+        <g>
+          <rect x="347" y="311" width="72" height="64" rx="24" ry="24" style="fill: url(#_未命名的渐变_2-3);"/>
+          <path d="M395,315c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v16c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-16c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M395,311h-24c-19,0-24,5-24,24v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_317);"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="_按钮_20x" data-name="按钮 20x">
+    <g id="_按钮禁用-2" data-name="按钮禁用">
+      <g id="_按钮禁用_0-8" data-name="按钮禁用 0">
+        <path d="M1590,474h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮禁用_1-3" data-name="按钮禁用 1">
+        <path d="M1542,510v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16h-72Z" style="fill: #343130; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮禁用_2-5" data-name="按钮禁用 2">
+        <g>
+          <rect x="1542" y="478" width="72" height="64" rx="24" ry="24" style="fill: url(#_未命名的渐变_288-5);"/>
+          <path d="M1590,482c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v16c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-16c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M1590,478h-24c-19,0-24,5-24,24v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_292);"/>
+        </g>
+      </g>
+    </g>
+    <g id="_按钮常态-2" data-name="按钮常态">
+      <g id="_按钮常态_0-3" data-name="按钮常态 0">
+        <path d="M1590,474h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮常态_1-3" data-name="按钮常态 1">
+        <path d="M1542,510v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16h-72Z" style="fill: #5c5958; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮常态_2-3" data-name="按钮常态 2">
+        <g>
+          <rect x="1542" y="478" width="72" height="64" rx="24" ry="24" style="fill: url(#_未命名的渐变_41-3);"/>
+          <path d="M1590,482c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v16c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-16c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M1590,478h-24c-19,0-24,5-24,24v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_284);"/>
+        </g>
+      </g>
+    </g>
+    <g id="_按钮选中-2" data-name="按钮选中">
+      <g id="_按钮选中_0-3" data-name="按钮选中 0">
+        <path d="M1590,474h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill: #fff; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮选中_1-3" data-name="按钮选中 1">
+        <path d="M1542,510v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16h-72Z" style="fill: #5d53a4; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮选中_2-3" data-name="按钮选中 2">
+        <g>
+          <rect x="1542" y="478" width="72" height="64" rx="24" ry="24" style="fill: url(#_未命名的渐变_2-4);"/>
+          <path d="M1590,482c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v16c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-16c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M1590,478h-24c-19,0-24,5-24,24v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_277);"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="_按钮_20x_无渐变" data-name="按钮 20x 无渐变">
+    <g id="_按钮禁用-3" data-name="按钮禁用">
+      <g id="_按钮禁用_0-9" data-name="按钮禁用 0">
+        <path d="M1590,558h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮禁用_1-4" data-name="按钮禁用 1">
+        <path d="M1542,594v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16h-72Z" style="fill: #343130; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮禁用_2-6" data-name="按钮禁用 2">
+        <g>
+          <rect x="1542" y="562" width="72" height="64" rx="24" ry="24" style="fill: #302d2c;"/>
+          <path d="M1590,566c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v16c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-16c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M1590,562h-24c-19,0-24,5-24,24v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_273);"/>
+        </g>
+      </g>
+    </g>
+    <g id="_按钮常态-3" data-name="按钮常态">
+      <g id="_按钮常态_0-4" data-name="按钮常态 0">
+        <path d="M1590,558h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮常态_1-4" data-name="按钮常态 1">
+        <path d="M1542,594v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16h-72Z" style="fill: #5c5958; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮常态_2-4" data-name="按钮常态 2">
+        <g>
+          <rect x="1542" y="562" width="72" height="64" rx="24" ry="24" style="fill: #7f7c7b;"/>
+          <path d="M1590,566c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v16c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-16c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M1590,562h-24c-19,0-24,5-24,24v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_262);"/>
+        </g>
+      </g>
+    </g>
+    <g id="_按钮选中-3" data-name="按钮选中">
+      <g id="_按钮选中_0-4" data-name="按钮选中 0">
+        <path d="M1590,558h-24c-22,0-28,6-28,28v24c0,22,6,28,28,28h24c22,0,28-6,28-28v-24c0-22-6-28-28-28Z" style="fill: #fff; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮选中_1-4" data-name="按钮选中 1">
+        <path d="M1542,594v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16h-72Z" style="fill: #5d53a4; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮选中_2-4" data-name="按钮选中 2">
+        <g>
+          <rect x="1542" y="562" width="72" height="64" rx="24" ry="24" style="fill: #7975d5;"/>
+          <path d="M1590,566c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v16c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-24c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-16c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h24M1590,562h-24c-19,0-24,5-24,24v16c0,19,5,24,24,24h24c19,0,24-5,24-24v-16c0-19-5-24-24-24h0Z" style="fill: url(#_未命名的渐变_255);"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="_按钮_18x" data-name="按钮 18x">
+    <g id="_按钮禁用-4" data-name="按钮禁用">
+      <g id="_按钮禁用_0-10" data-name="按钮禁用 0">
+        <path d="M1666,482h-16c-22,0-28,6-28,28v16c0,22,6,28,28,28h16c22,0,28-6,28-28v-16c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮禁用_1-5" data-name="按钮禁用 1">
+        <path d="M1626,510v16c0,19,5,24,24,24h16c19,0,24-5,24-24v-16h-64Z" style="fill: #343130; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮禁用_2-7" data-name="按钮禁用 2">
+        <g>
+          <rect x="1626" y="486" width="64" height="56" rx="24" ry="24" style="fill: url(#_未命名的渐变_81);"/>
+          <path d="M1666,490c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v8c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-16c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-8c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h16M1666,486h-16c-19,0-24,5-24,24v8c0,19,5,24,24,24h16c19,0,24-5,24-24v-8c0-19-5-24-24-24h0Z" style="fill: url(#_新建渐变色板_3);"/>
+        </g>
+      </g>
+    </g>
+    <g id="_按钮常态-4" data-name="按钮常态">
+      <g id="_按钮常态_0-5" data-name="按钮常态 0">
+        <path d="M1666,482h-16c-22,0-28,6-28,28v16c0,22,6,28,28,28h16c22,0,28-6,28-28v-16c0-22-6-28-28-28Z" style="fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮常态_1-5" data-name="按钮常态 1">
+        <path d="M1626,510v16c0,19,5,24,24,24h16c19,0,24-5,24-24v-16h-64Z" style="fill: #5c5958; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮常态_2-5" data-name="按钮常态 2">
+        <g>
+          <rect x="1626" y="486" width="64" height="56" rx="24" ry="24" style="fill: url(#_未命名的渐变_41-4);"/>
+          <path d="M1666,490c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v8c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-16c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-8c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h16M1666,486h-16c-19,0-24,5-24,24v8c0,19,5,24,24,24h16c19,0,24-5,24-24v-8c0-19-5-24-24-24h0Z" style="fill: url(#_新建渐变色板_4);"/>
+        </g>
+      </g>
+    </g>
+    <g id="_按钮选中-4" data-name="按钮选中">
+      <g id="_按钮选中_0-5" data-name="按钮选中 0">
+        <path d="M1666,482h-16c-22,0-28,6-28,28v16c0,22,6,28,28,28h16c22,0,28-6,28-28v-16c0-22-6-28-28-28Z" style="fill: #fff; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮选中_1-5" data-name="按钮选中 1">
+        <path d="M1626,510v16c0,19,5,24,24,24h16c19,0,24-5,24-24v-16h-64Z" style="fill: #5d53a4; fill-rule: evenodd;"/>
+      </g>
+      <g id="_按钮选中_2-5" data-name="按钮选中 2">
+        <g>
+          <rect x="1626" y="486" width="64" height="56" rx="24" ry="24" style="fill: url(#_未命名的渐变_2-5);"/>
+          <path d="M1666,490c8.83,0,13.7,1.11,16.3,3.7,2.6,2.6,3.7,7.47,3.7,16.3v8c0,8.83-1.11,13.7-3.7,16.3-2.6,2.6-7.47,3.7-16.3,3.7h-16c-8.83,0-13.7-1.11-16.3-3.7-2.6-2.6-3.7-7.47-3.7-16.3v-8c0-8.83,1.11-13.7,3.7-16.3,2.6-2.6,7.47-3.7,16.3-3.7h16M1666,486h-16c-19,0-24,5-24,24v8c0,19,5,24,24,24h16c19,0,24-5,24-24v-8c0-19-5-24-24-24h0Z" style="fill: url(#_新建渐变色板_5);"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
